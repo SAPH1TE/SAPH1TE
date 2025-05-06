@@ -33,5 +33,5 @@ I play with everything from **web dev** to **Batch/Bash scripting**, usually coo
 
 ---
  [![trophy](https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
- [![Metrics](https://metrics.lecoq.io/saph1te?template=classic&languages=1&isocalendar=1&base=header,activity,community)
+[![Metrics](https://metrics.lecoq.io/saph1te?template=classic&languages=1&isocalendar=1&base=header,activity,community)](https://metrics.lecoq.io/about)
 
