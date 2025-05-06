@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9CcjrXQAy3rSfHO1YW9_jTg6m_weQRmN6tw&s" alt="Banner" width="100%" />
+  <img src="https://d.furaffinity.net/art/bonezilord/1669597937/1669597937.bonezilord_pngnn.png" alt="Banner" width="100%" />
 </p>
 ## 👋 Hey there!
 
