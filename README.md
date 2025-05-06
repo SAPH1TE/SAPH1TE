@@ -13,6 +13,14 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
 
 🎮 If you’re into *game development*, *coding*, or *random thoughts*, hit me up anytime. I am always up for a conversation! (discord below) 📩
 
+## ⚙️ Current Interests:
+
+- 🛠️ Reverse engineering & system internals  
+- 🌐 Full-stack web & backend architecture  
+- 🧠 AI, automation, and optimization tools  
+- 🕹️ Godot and general game development  
+- 🧪 Experimenting with scripts just to see what happens because why not
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" style="border-radius: 10px; margin-top: 10px;"/>
 </p>
@@ -25,18 +33,8 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
   <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-bg=true&margin-w=4&margin-h=4&column=8" alt="GitHub Achievements" />
 </p>
 
-<p align="center"><strong>⚙️ Current Interests</strong></p>
-- 🛠️ Reverse engineering & system internals  
-- 🌐 Full-stack web & backend architecture  
-- 🧠 AI, automation, and optimization tools  
-- 🕹️ Godot and general game development  
-- 🧪 Experimenting with scripts just to see what happens because why not
+## im currently working on:
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" style="border-radius: 10px; margin-top: 10px;"/>
-</p>
-
-<p align="center"><strong>I'm currently working on:</strong></p>
 <p align="center">
   <a href="https://github.com/SAPH1TE/Bo-Wiltse-Site">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site&theme=jolly" />
