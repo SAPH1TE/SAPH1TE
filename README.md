@@ -1,5 +1,3 @@
-# Hi, I'm Saphite! 👋
-
 <p align="center">
   <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/New%2520Project.png?raw=true" alt="Banner" width="100%" />
 </p>
