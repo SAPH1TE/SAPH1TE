@@ -12,7 +12,6 @@ I play with everything from **web dev** to **Batch/Bash scripting**, usually coo
 🧠 *Neurodivergent chaos™* included. Passionate, curious, and *unpredictably creative*.
 
 🎮 Want to talk *game dev*, *coding*, or *obscure tech lore*? I’m always down. Slide into my DMs! 📩
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 📈 GitHub Stats
 
 ![Saphite's GitHub stats](https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=tokyonight&border_radius=12&hide_rank=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=tokyonight&border_radius=12)
