@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9CcjrXQAy3rSfHO1YW9_jTg6m_weQRmN6tw&s" alt="Banner" width="100%" />
+</p>
 ## 👋 Hey there!
 
 🐧 **Linux Enjoyer** | 💻 Tech Tinkerer | 🎵 Music Addict | 🦊 Open Source Advocate
