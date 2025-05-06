@@ -21,9 +21,6 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
   <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&border_radius=12&hide_rank=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=jolly&border_radius=12" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-bg=true&margin-w=4&margin-h=4&column=8" alt="GitHub Achievements" />
-</p>
 
 ## ⚙️ Current Interests:
 
@@ -45,5 +42,9 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
 
 ## 🌐 Find Me Around the Web
   [![Steam](https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199074085646)    [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@saph1tesaph1te-h8c)    [![Spotify](https://img.shields.io/badge/Spotify-Vibes-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme)    [![TikTok](https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok)](https://www.tiktok.com/@.saphite?lang=en)    ![Discord](https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white)
+
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-bg=true&margin-w=4&margin-h=4&column=8" alt="GitHub Achievements" />
+</p>
 
 
