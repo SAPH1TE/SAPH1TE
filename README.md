@@ -17,7 +17,6 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" style="border-radius: 10px; margin-top: 10px;"/>
 </p>
 
-## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&border_radius=12&hide_rank=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=jolly&border_radius=12" />
