@@ -6,7 +6,7 @@
   🐧 Linux Enthusiast | 💻 Tech Innovator | 🎵 Music Buff | 🦊 Open Source Advocate
 </p>
 
-I dive deep into everything from **web development** to **Batch/Bash scripting**, constantly working on *quirky side-projects* just for the fun of it ✨. I'm all about **FOSS**—whether it’s **Godot**, **Firefox**, or **Vencord**, supporting open-source is my thing!
+I dive deep into everything from **web development** to **Batch/Bash scripting**, constantly working on random things just for fun. I'm all in on **FOSS**—whether it’s **Godot**, **Firefox**, or **Vencord**, supporting open-source is my thing!
 
 🔧 I like to break things apart to understand them and *occasionally~* I manage to make them even better than before.  
 🧠 Oh, and by the way, *Neurodivergent chaos™* included.
