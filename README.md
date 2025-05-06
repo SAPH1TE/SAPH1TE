@@ -23,7 +23,7 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=jolly&border_radius=12" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-bg=true&margin-w=4&margin-h=4&column=4" alt="GitHub Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-bg=true&margin-w=4&margin-h=4&column=8" alt="GitHub Achievements" />
 </p>
 
 ## ⚙️ Current Interests
