@@ -27,10 +27,6 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=jolly&border_radius=12" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" style="border-radius: 10px; margin-top: 10px;"/>
-</p>
-
 ## ⚙️ Current Interests
 
 - 🛠️ Reverse engineering & system internals  
@@ -38,10 +34,6 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
 - 🧠 AI, automation, and optimization tools  
 - 🕹️ Godot and general game development  
 - 🧪 Experimenting with scripts just to see what happens because why not
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" style="border-radius: 10px; margin-top: 10px;"/>
-</p>
 
 ## Currently working on publicly:
 <p align="center">
@@ -70,6 +62,5 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
 </p>
 
 ## 🏆 Achievements & Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
