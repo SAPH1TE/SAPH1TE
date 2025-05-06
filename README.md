@@ -6,10 +6,6 @@
   🐧 Linux Enthusiast | 💻 Tech Innovator | 🎵 Music Buff | 🦊 Open Source Advocate
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" style="border-radius: 10px; margin-top: 10px;"/>
-</p>
-
 I dive deep into everything from **web development** to **Batch/Bash scripting**, constantly working on *quirky side-projects* just for the fun of it ✨. I'm all about **FOSS**—whether it’s **Godot**, **Firefox**, or **Vencord**, supporting open-source is my thing!
 
 🔧 I like to break things apart to understand them and *occasionally~* I manage to make them even better than before.  
