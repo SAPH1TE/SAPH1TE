@@ -46,13 +46,11 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
 
 
 ## 🌐 Find Me Around the Web
-<p align="center">
   [![Steam](https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199074085646)  
   [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@saph1tesaph1te-h8c)  
   [![Spotify](https://img.shields.io/badge/Spotify-Vibes-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme)  
   [![TikTok](https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok)](https://www.tiktok.com/@.saphite?lang=en)  
   ![Discord](https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white)
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" style="border-radius: 10px; margin-top: 10px;"/>
