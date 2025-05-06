@@ -4,6 +4,7 @@
 ## 👋 Hey there!
 
 🐧 **Linux Enjoyer** | 💻 Tech Tinkerer | 🎵 Music Addict | 🦊 Open Source Advocate
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;
 
 I play with everything from **web dev** to **Batch/Bash scripting**, usually cooking up *weird little side-projects* just for fun ✨. I'm big on FOSS—**Godot**, **Firefox**, **Vencord**, you name it.
 
@@ -11,14 +12,10 @@ I play with everything from **web dev** to **Batch/Bash scripting**, usually coo
 🧠 *Neurodivergent chaos™* included. Passionate, curious, and *unpredictably creative*.
 
 🎮 Want to talk *game dev*, *coding*, or *obscure tech lore*? I’m always down. Slide into my DMs! 📩
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;
 ## 📈 GitHub Stats
 
 ![Saphite's GitHub stats](https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=tokyonight&border_radius=12&hide_rank=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=tokyonight&border_radius=12)
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## ⚙️ Current Interests
 
