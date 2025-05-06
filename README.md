@@ -16,7 +16,7 @@ I play with everything from **web dev** to **Batch/Bash scripting**, usually coo
 
 ## 📈 GitHub Stats
 
-![Saphite's GitHub stats](https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=tokyonight&border_radius=12&hide_rank=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=tokyonight&border_radius=12) [![trophy](https://github-profile-trophy.vercel.app/?username=saph1te&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+![Saphite's GitHub stats](https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=tokyonight&border_radius=12&hide_rank=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=tokyonight&border_radius=12)
 
 ---
 
@@ -39,3 +39,4 @@ I play with everything from **web dev** to **Batch/Bash scripting**, usually coo
 ![Discord](https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white)
 
 ---
+ [![trophy](https://github-profile-trophy.vercel.app/?username=saph1te&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
