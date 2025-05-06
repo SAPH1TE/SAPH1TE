@@ -32,5 +32,5 @@ I play with everything from **web dev** to **Batch/Bash scripting**, usually coo
 ![Discord](https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white)
 
 ---
- [![trophy](https://github-profile-trophy.vercel.app/?username=saph1te&theme=date_night)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=saph1te&theme=omni)](https://github.com/ryo-ma/github-profile-trophy)
 
