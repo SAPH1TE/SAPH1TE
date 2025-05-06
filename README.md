@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://www.hellomerch.com/cdn/shop/collections/TV_Girl.png?v=1703194859" alt="Banner" width="100%" />
+</p>
 ## 👋 Hey there!
 
 🐧 **Linux Enjoyer** | 💻 Tech Tinkerer | 🎵 Music Addict | 🦊 Open Source Advocate
