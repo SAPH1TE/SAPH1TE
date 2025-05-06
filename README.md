@@ -11,7 +11,7 @@ I play with everything from **web dev** to **Batch/Bash scripting**, usually coo
 
 🎮 Want to talk *game dev*, *coding*, or *obscure tech lore*? I’m always down. Slide into my DMs! 📩
 ## 📈 GitHub Stats
-![Saphite's GitHub stats](https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=radical&border_radius=12&hide_rank=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=radical&border_radius=12)
+![Saphite's GitHub stats](https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=omni&border_radius=12&hide_rank=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=omni&border_radius=12)
 
 ## ⚙️ Current Interests
 
@@ -32,5 +32,5 @@ I play with everything from **web dev** to **Batch/Bash scripting**, usually coo
 ![Discord](https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white)
 
 ---
- [![trophy](https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=saph1te&theme=omni)](https://github.com/ryo-ma/github-profile-trophy)
 
