@@ -1,16 +1,16 @@
-
 <p align="center">
   <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/New%2520Project.png?raw=true" alt="Banner" width="100%" />
 </p>
-<p align="center">🐧 Linux Enjoyer | 💻 Tech Tinkerer | 🎵 Music Addict | 🦊 Open Source Advocate</p>
+<p align="center">🐧 Linux Enthusiast | 💻 Tech Innovator | 🎵 Music Buff | 🦊 Open Source Advocate</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I play with everything from **web dev** to **Batch/Bash scripting**, usually cooking up *weird little side-projects* just for fun ✨. I'm big on FOSS—**Godot**, **Firefox**, **Vencord**, you name it.
+I dive deep into everything from **web development** to **Batch/Bash scripting**, constantly working on *quirky side-projects* just for the fun of it ✨. I’m a firm believer in FOSS—whether it’s **Godot**, **Firefox**, or **Vencord**, I’m all about supporting open-source initiatives.
 
-🔧 I break stuff to understand it—and *sometimes~* even fix it better than before.  
-🧠 *Neurodivergent chaos™* included. Passionate, curious, and *unpredictably creative*.
+🔧 I like to break things apart to understand them—and *occasionally~* I manage to make them even better than before.  
+🧠 Oh and by the way, *Neurodivergent chaos™* included.
 
-🎮 Want to talk *game dev*, *coding*, or *obscure tech lore*? I’m always down. Slide into my DMs! 📩
+🎮 If you’re into *game development*, *coding*, or *nerdy tech lore*, hit me up anytime. I'm always game for a conversation! 📩
+
 ## 📈 GitHub Stats
 ![Saphite's GitHub stats](https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&border_radius=12&hide_rank=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=jolly&border_radius=12)
 
@@ -19,18 +19,17 @@ I play with everything from **web dev** to **Batch/Bash scripting**, usually coo
 - 🛠️ Reverse engineering & system internals  
 - 🌐 Full-stack web & backend architecture  
 - 🧠 AI, automation, and optimization tools  
-- 🕹️ Godot game dev (GDScript supremacy)  
-- 🧪 Making absurd scripts just to see if they break something
+- 🕹️ Godot game development (GDScript supremacy)  
+- 🧪 Experimenting with scripts just to see what happens
 
-## currently working on publicly:
+## Currently working on publicly:
 <p align="center">
   <a href="https://github.com/SAPH1TE/Bo-Wiltse-Site">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site&theme=jolly" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site-DEV-BUILD-&theme=jolly" />
   </a>
-  <p align="center">And something a little special ;)</p>
+  <p align="center">And a little something special 😉</p>
 </p>
-
 
 ## 🌐 Find Me Around the Web
 
@@ -41,5 +40,4 @@ I play with everything from **web dev** to **Batch/Bash scripting**, usually coo
 ![Discord](https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white)
 
 ---
- [![trophy](https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
