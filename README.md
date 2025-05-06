@@ -12,7 +12,7 @@ I play with everything from **web dev** to **Batch/Bash scripting**, usually coo
 
 🎮 Want to talk *game dev*, *coding*, or *obscure tech lore*? I’m always down. Slide into my DMs! 📩
 ## 📈 GitHub Stats
-![Saphite's GitHub stats](https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=date_night&border_radius=12&hide_rank=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=date_night&border_radius=12)
+![Saphite's GitHub stats](https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&border_radius=12&hide_rank=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=jolly&border_radius=12)
 
 ## ⚙️ Current Interests
 
@@ -25,8 +25,8 @@ I play with everything from **web dev** to **Batch/Bash scripting**, usually coo
 ## currently working on publicly:
 <p align="center">
   <a href="https://github.com/SAPH1TE/Bo-Wiltse-Site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site&theme=synthwave" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site-DEV-BUILD-&theme=synthwave" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site&theme=jolly" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site-DEV-BUILD-&theme=jolly" />
   </a>
   <p align="center">And something a little special ;)</p>
 </p>
