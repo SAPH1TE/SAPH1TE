@@ -6,10 +6,10 @@
 
 I dive deep into everything from **web development** to **Batch/Bash scripting**, constantly working on *quirky side-projects* just for the fun of it ✨. I’m a firm believer in FOSS—whether it’s **Godot**, **Firefox**, or **Vencord**, I’m all about supporting open-source initiatives.
 
-🔧 I like to break things apart to understand them—and *occasionally~* I manage to make them even better than before.  
+🔧 I like to break things apart to understand them and *occasionally~* I manage to make them even better than before.  
 🧠 Oh and by the way, *Neurodivergent chaos™* included.
 
-🎮 If you’re into *game development*, *coding*, or *nerdy tech lore*, hit me up anytime. I'm always game for a conversation! 📩
+🎮 If you’re into *game development*, *coding*, or *random thoughts*, hit me up anytime. I am always for a conversation! (discord below) 📩
 
 ## 📈 GitHub Stats
 ![Saphite's GitHub stats](https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&border_radius=12&hide_rank=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=jolly&border_radius=12)
@@ -19,8 +19,8 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
 - 🛠️ Reverse engineering & system internals  
 - 🌐 Full-stack web & backend architecture  
 - 🧠 AI, automation, and optimization tools  
-- 🕹️ Godot game development (GDScript supremacy)  
-- 🧪 Experimenting with scripts just to see what happens
+- 🕹️ Godot and general game development  
+- 🧪 Experimenting with scripts just to see what happens because why not
 
 ## Currently working on publicly:
 <p align="center">
