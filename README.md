@@ -41,7 +41,7 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site&theme=jolly" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site-DEV-BUILD-&theme=jolly" />
   </a>
-  <p align="center" style="font-style: italic;">And a little something special 😉</p>
+  <p align="center" style="font-style: italic;">And a little something special ;P</p>
 </p>
 
 
