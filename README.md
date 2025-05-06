@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/New%20Project.png?raw=true" alt="Banner" width="100%" />
 </p>
@@ -21,7 +22,13 @@ I play with everything from **web dev** to **Batch/Bash scripting**, usually coo
 - 🕹️ Godot game dev (GDScript supremacy)  
 - 🧪 Making absurd scripts just to see if they break something
 
----
+## currently working on:
+<p align="center">
+  <a href="https://github.com/SAPH1TE/Bo-Wiltse-Site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site&theme=synthwave" />
+  </a>
+</p>
+
 
 ## 🌐 Find Me Around the Web
 
