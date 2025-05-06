@@ -30,7 +30,7 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
 - 🧠 AI, automation, and optimization tools  
 - 🕹️ Godot and general game development  
 - 🧪 Experimenting with scripts just to see what happens because why not
-- 
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" style="border-radius: 10px; margin-top: 10px;"/>
 </p>
