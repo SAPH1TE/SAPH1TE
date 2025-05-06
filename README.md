@@ -17,7 +17,9 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
 
 🎮 If you’re into *game development*, *coding*, or *random thoughts*, hit me up anytime. I am always up for a conversation! (discord below) 📩
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" style="border-radius: 10px; margin-top: 10px;"/>
+</p>
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -25,7 +27,9 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=jolly&border_radius=12" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" style="border-radius: 10px; margin-top: 10px;"/>
+</p>
 
 ## ⚙️ Current Interests
 
@@ -35,7 +39,9 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
 - 🕹️ Godot and general game development  
 - 🧪 Experimenting with scripts just to see what happens because why not
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" style="border-radius: 10px; margin-top: 10px;"/>
+</p>
 
 ## Currently working on publicly:
 <p align="center">
@@ -46,7 +52,9 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
   <p align="center" style="font-style: italic;">And a little something special 😉</p>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" style="border-radius: 10px; margin-top: 10px;"/>
+</p>
 
 ## 🌐 Find Me Around the Web
 <p align="center">
@@ -57,7 +65,9 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
   ![Discord](https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white)
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" style="border-radius: 10px; margin-top: 10px;"/>
+</p>
 
 ## 🏆 Achievements & Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
