@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/New%20Project.png?raw=true" alt="Banner" width="100%" />
 </p>
-<p align="center">## 👋 Hey there!</p>
+<p align="center">👋 **Hey there!**</p>
 <p align="center">🐧 **Linux Enjoyer** | 💻 Tech Tinkerer | 🎵 Music Addict | 🦊 Open Source Advocate</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
