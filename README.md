@@ -2,7 +2,7 @@
 
 🐧 **Linux Enjoyer** | 💻 Tech Tinkerer | 🎵 Music Addict | 🦊 Open Source Advocate
 
-I dabble in everything from **web dev** to **Batch/Bash scripting**, usually cooking up *weird little side-projects* just for fun ✨. I'm big on FOSS—**Godot**, **Firefox**, **Vencord**, you name it.
+I play with everything from **web dev** to **Batch/Bash scripting**, usually cooking up *weird little side-projects* just for fun ✨. I'm big on FOSS—**Godot**, **Firefox**, **Vencord**, you name it.
 
 🔧 I break stuff to understand it—and *sometimes~* even fix it better than before.  
 🧠 *Neurodivergent chaos™* included. Passionate, curious, and *unpredictably creative*.
