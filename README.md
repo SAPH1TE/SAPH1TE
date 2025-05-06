@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🐧 Linux Enthusiast | 💻 Tech Innovator | 🎵 Music Buff | 🦊 Open Source Advocate
+  🐧 Linux Enthusiast | 💻 Tech ASDAGJSDJGAKJ :D | 🎵 Music junkie | 🦊 Open Source enjoyier
 </p>
 
 I dive deep into everything from **web development** to **Batch/Bash scripting**, constantly working on random things just for fun. I'm all in on **FOSS**—whether it’s **Godot**, **Firefox**, or **Vencord**, supporting open-source is my thing!
