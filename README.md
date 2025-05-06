@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://d.furaffinity.net/art/bonezilord/1669597937/1669597937.bonezilord_pngnn.png" alt="Banner" width="100%" />
+  <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/New%20Project.png?raw=true" alt="Banner" width="100%" />
 </p>
 ## 👋 Hey there!
 
