@@ -22,13 +22,13 @@ I play with everything from **web dev** to **Batch/Bash scripting**, usually coo
 - 🕹️ Godot game dev (GDScript supremacy)  
 - 🧪 Making absurd scripts just to see if they break something
 
-## currently working on:
+## currently working on publicly:
 <p align="center">
   <a href="https://github.com/SAPH1TE/Bo-Wiltse-Site">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site&theme=synthwave" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site-DEV-BUILD-&theme=synthwave" />
-    And something a little special ;)
   </a>
+  <p align="center">And something a little special ;)</p>
 </p>
 
 
