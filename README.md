@@ -22,7 +22,7 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
   <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&border_radius=12&hide_rank=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=jolly&border_radius=12" />
 </p>
-
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-bg=true&margin-w=5&margin-h=5" alt="GitHub Achievements" /></p>
 ## ⚙️ Current Interests
 
 - 🛠️ Reverse engineering & system internals  
