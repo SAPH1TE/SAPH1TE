@@ -35,7 +35,7 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
 <p align="center">
   <a href="https://github.com/SAPH1TE/Bo-Wiltse-Site">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site&theme=jolly" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site-DEV-BUILD-&theme=jolly" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=planet-soup-website&theme=jolly" />
   </a>
   <p align="center" style="font-style: italic;">And a little something special ;P</p>
 </p>
