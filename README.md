@@ -2,8 +2,11 @@
   <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/New%2520Project.png?raw=true" alt="Banner" width="100%" />
 </p>
 
-  [![Steam](https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199074085646)    [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@saph1tesaph1te-h8c)    [![Spotify](https://img.shields.io/badge/Spotify-Vibes-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme)    [![TikTok](https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok)](https://www.tiktok.com/@.saphite?lang=en)    ![Discord](https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white)
+<p align="center">
 
+  [![Steam](https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199074085646)    [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@saph1tesaph1te-h8c)    [![Spotify](https://img.shields.io/badge/Spotify-Vibes-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme)    [![TikTok](https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok)](https://www.tiktok.com/@.saphite?lang=en) ![Discord](https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-<3-1793D1?logo=arch-linux&logoColor=white) ![Profile Views](https://komarev.com/ghpvc/?username=saph1te&color=blueviolet) [![GitHub](https://img.shields.io/badge/GitHub-Saphite-181717?logo=github&logoColor=white)](Browhydidyouclickonmygithub....INGITHUB)
+
+</p>
 <p align="center">
   🐧 Linux Enthusiast | 💻 Tech ASDAGJSDJGAKJ :D | 🎵 Music junkie | 🦊 Open Source enjoyier
 </p>
@@ -32,7 +35,7 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
 - 🕹️ Godot and general game development  
 - 🧪 Experimenting with scripts just to see what happens because why not
 
-## im currently working on:
+## im currently working on
 
 <p align="center">
   <a href="https://github.com/SAPH1TE/Bo-Wiltse-Site">
@@ -41,6 +44,8 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
   </a>
   <p align="center" style="font-style: italic;">And a little something special ;P</p>
 </p>
+
+## My achievements 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-bg=true&margin-w=4&margin-h=4&column=8" alt="GitHub Achievements" />
