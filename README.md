@@ -16,7 +16,7 @@ I dive deep into everything from **web development** to **Batch/Bash scripting**
 🔧 I like to break things apart to understand them and *occasionally~* I manage to make them even better than before.  
 🧠 Oh, and by the way, *Neurodivergent chaos™* included.
 
-🎮 If you’re into *game development*, *coding*, or *random thoughts*, hit me up anytime. I am always up for a conversation! (discord below) 📩
+🎮 If you’re into *game development*, *coding*, or *random thoughts*, hit me up anytime. I am always up for a conversation! (discord above) 📩
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" style="border-radius: 10px; margin-top: 10px;"/>
