@@ -43,22 +43,24 @@
 
 <!-- GitHub Stats - Top Section -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=radical&hide_border=false" alt="Streak" width="53%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=radical&hide_border=false" alt="Top Languages" width="35%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="Streak" width="53%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=jolly&hide_border=true" alt="Top Languages" width="35%" />
 </div>
 
 <!-- GitHub Stats - Bottom Section -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-bg=true&margin-w=4&margin-h=4&column=4" alt="Trophies" width="39%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saph1te&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saph1te&theme=jolly&utcOffset=8" alt="Commits"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&hide_border=true" alt="GitHub Stats" />
+
 </div>
 
 ---
 
+
 ## ⚙️ I'm currently working on
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site&theme=radical&hide_border=true" alt="Bo-Wiltse-Site" align="right" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site&theme=jolly&hide_border=true" alt="Bo-Wiltse-Site" align="right" width="500" />
   - 🛠️ Reverse engineering & system internals<br>
   - 🌐 Full-stack web & backend architecture<br>
   - 🤖 AI, automation, and optimization tools<br>
@@ -67,6 +69,8 @@
 </p>
 
 ---
+
+
 
 <!-- 
   If you found this, you're probably as curious as me. 
