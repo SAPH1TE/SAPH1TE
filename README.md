@@ -44,8 +44,8 @@
 
 <!-- Top Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=radical&hide_border=false" alt="Streak" width="54%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=radical&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=radical&hide_border=false" alt="Streak" width="53%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=radical&hide_border=false" alt="Top Languages" width="35%" />
 </div>
 
 
@@ -53,7 +53,7 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-bg=true&margin-w=4&margin-h=4&column=4" alt="Trophies" width="39%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saph1te&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saph1te&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" width="49%" />
 </div>
 
 ## im currently working on ⚙️
