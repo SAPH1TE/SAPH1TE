@@ -1,53 +1,78 @@
+<!-- 
+  For anyone reading the code: Shoutout 2 u! 💜 
+  This took a while 'cause GitHub blocks some CSS workarounds in markdown files.  
+  Wanna collab, vibe, or talk? Discord’s open: **@saph1te** 
+-->
+
+<!-- Banner -->
 <p align="center">
   <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/New%2520Project.png?raw=true" alt="Banner" width="100%" />
 </p>
 
+<!-- Social Badges -->
 <p align="center">
-
-  [![Steam](https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199074085646)    [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@saph1tesaph1te-h8c)    [![Spotify](https://img.shields.io/badge/Spotify-Vibes-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme)    [![TikTok](https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok)](https://www.tiktok.com/@.saphite?lang=en) ![Discord](https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white) ![Profile Views](https://komarev.com/ghpvc/?username=saph1te&color=blueviolet)
-
-</p>
-<p align="center">
-  🐧 Linux Enthusiast | 💻 Tech ASDAGJSDJGAKJ :D | 🎵 Music junkie | 🦊 Open Source enjoyier
-</p>
-
-I dive deep into everything from **web development** to **Batch/Bash scripting**, constantly working on random things just for fun. I'm all in on **FOSS**—whether it’s **Godot**, **Firefox**, or **Vencord**, supporting open-source is my thing!
-
-🔧 I like to break things apart to understand them and *occasionally~* I manage to make them even better than before.  
-🧠 Oh, and by the way, *Neurodivergent chaos™* included.
-
-🎮 If you’re into *game development*, *coding*, or *random thoughts*, hit me up anytime. I am always up for a conversation! (discord below) 📩
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Gif" style="border-radius: 10px; margin-top: 10px;"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&border_radius=12&hide_rank=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=compact&theme=jolly&border_radius=12" />
-</p>
-
-## ⚙️ Current Interests:
-
-- 🛠️ Reverse engineering & system internals  
-- 🌐 Full-stack web & backend architecture  
-- 🧠 AI, automation, and optimization tools  
-- 🕹️ Godot and general game development  
-- 🧪 Experimenting with scripts just to see what happens because why not
-
-## im currently working on
-
-<p align="center">
-  <a href="https://github.com/SAPH1TE/Bo-Wiltse-Site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site&theme=jolly" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=planet-soup-website&theme=jolly" />
+  <a href="https://steamcommunity.com/profiles/76561199074085646">
+    <img src="https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white" alt="Steam" />
   </a>
-  <p align="center" style="font-style: italic;">And a little something special ;P</p>
+  <a href="https://www.youtube.com/@saph1tesaph1te-h8c">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme">
+    <img src="https://img.shields.io/badge/Spotify-Vibes-1DB954?logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+  <a href="https://www.tiktok.com/@.saphite?lang=en">
+    <img src="https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok" alt="TikTok" />
+  </a>
+  <a href="https://discord.com/users/1293353636168073330">
+    <img src="https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=saph1te&color=blueviolet" alt="Profile Views" />
 </p>
 
-## My achievements 
-
+<!-- Intro -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-bg=true&margin-w=4&margin-h=4&column=8" alt="GitHub Achievements" />
+  <strong>🐧 Linux Enthusiast</strong> | <strong>💻 Tech Geek</strong> | <strong>🎵 Music Junkie</strong> | <strong>🦊 Open Source Fan</strong>
 </p>
-<!-- reverted to the og version temporary >
+
+<div align="center" style="max-width: 800px;">
+  <p style="line-height:1.5;">
+    I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. 🔧 I break things to understand them, then (occasionally) make them better. 🧠 Neurodivergent chaos™ included.
+  </p>
+  <p>🎮 Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord! 📩</p>
+</div>
+
+<!-- GitHub Stats - Top Section -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="Streak" width="53%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=jolly&hide_border=true" alt="Top Languages" width="35%" />
+</div>
+
+<!-- GitHub Stats - Bottom Section -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saph1te&theme=jolly&utcOffset=8" alt="Commits"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&hide_border=true" alt="GitHub Stats" />
+
+</div>
+
+---
+
+
+## ⚙️ I'm currently working on
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site&theme=jolly&hide_border=true" alt="Bo-Wiltse-Site" align="right" width="500" />
+  - 🛠️ Reverse engineering & system internals<br>
+  - 🌐 Full-stack web & backend architecture<br>
+  - 🤖 AI, automation, and optimization tools<br>
+  - 🕹️ Godot & general game development<br>
+  - 🧪 Experimenting with scripts just to see what happens
+</p>
+
+---
+
+
+
+<!-- 
+  If you found this, you're probably as curious as me. 
+  Even though there is another easter egg above :3 :p 
+-->
