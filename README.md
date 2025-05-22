@@ -1,4 +1,6 @@
 <!-- For anyone reading the code Shoutout 2 u! and also this took me a while bc the way github blocks some css workarounds in md files And always remember, Wanna to collab, vibe, or talk? Discord’s open: **@saph1te** -->
+
+
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/Banner.png?raw=true" alt="Banner" width="100%" />
@@ -67,4 +69,6 @@
   - 🕹️ Godot & general game development<br>
   - 🧪 Experimenting with scripts just to see what happens
 </p>
+
+
 <!--  If you found this, you're probably as curious as me. Even though there is another easter egg above :3 :p -->
