@@ -35,10 +35,10 @@
 </p>
 
 <div align="center" style="max-width: 800px;">
-  <p style="line-height:1.5;">
+  <p>
     I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. 🔧 I break things to understand them, then (occasionally) make them better. 🧠 Neurodivergent chaos™ included.
   </p>
-  <p>🎮 Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord! 📩</p>
+  <p> ⋆.˚ 🎮 Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord! 📩 ⋆.˚</p>
 </div>
 
 <!-- GitHub Stats - Top Section -->
