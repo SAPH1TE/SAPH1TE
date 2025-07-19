@@ -71,6 +71,11 @@
 ---
 
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&hide_border=true" alt="GitHub Trophy Wall" width="100%" />
+  </a>
+</p>
 
 <!-- 
   If you found this, you're probably as curious as me. 
