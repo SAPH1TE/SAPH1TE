@@ -54,13 +54,13 @@
 
 </div>
 
----
+##
 
 <div>
   <a href="https://github.com/SAPH1TE/Crisp-Browser">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Crisp-Browser" align="right" width="470"/>
   </a>
-   ⚙️ I'm currently working on:
+  ⚙️ <strong>I'm currently working on:</strong>
     <p>
       - 🛠️ Reverse engineering & system internals<br>
       - 🌐 Full-stack web & backend architecture<br>
@@ -70,8 +70,7 @@
     </p>
 </div>
 
----
-
+##
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
