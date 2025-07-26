@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Spotify-Vibes-1DB954?logo=spotify&logoColor=white" alt="Spotify" />
   </a>
   <a href="https://www.tiktok.com/@.saphite?lang=en">
-    <img src="https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-_.saphite-000?logo=tiktok" alt="TikTok" />
   </a>
   <a href="https://discord.com/users/1293353636168073330">
     <img src="https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white" alt="Discord" />
@@ -60,7 +60,7 @@
 ## ⚙️ I'm currently working on
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Bo-Wiltse-Site&theme=jolly&hide_border=true" alt="Bo-Wiltse-Site" align="right" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Crisp-Browser" align="right" width="500" href="https://github.com/SAPH1TE/Crisp-Browser" />
   - 🛠️ Reverse engineering & system internals<br>
   - 🌐 Full-stack web & backend architecture<br>
   - 🤖 AI, automation, and optimization tools<br>
