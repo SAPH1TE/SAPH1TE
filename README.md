@@ -57,7 +57,9 @@
 ---
 
 <div>
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Crisp-Browser" align="right" width="470" href="https://github.com/SAPH1TE/Crisp-Browser" />
+  <a href="https://github.com/SAPH1TE/Crisp-Browser">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Crisp-Browser" align="right" width="470"/>
+  </a>
    ⚙️ I'm currently working on:
     <p>
       - 🛠️ Reverse engineering & system internals<br>
