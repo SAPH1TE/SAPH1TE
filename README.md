@@ -56,24 +56,24 @@
 
 ---
 
-
-## ⚙️ I'm currently working on
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Crisp-Browser" align="right" width="500" href="https://github.com/SAPH1TE/Crisp-Browser" />
-  - 🛠️ Reverse engineering & system internals<br>
-  - 🌐 Full-stack web & backend architecture<br>
-  - 🤖 AI, automation, and optimization tools<br>
-  - 🕹️ Godot & general game development<br>
-  - 🧪 Experimenting with scripts just to see what happens
-</p>
+<div>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Crisp-Browser" align="right" width="470" href="https://github.com/SAPH1TE/Crisp-Browser" />
+   ⚙️ I'm currently working on:
+    <p>
+      - 🛠️ Reverse engineering & system internals<br>
+      - 🌐 Full-stack web & backend architecture<br>
+      - 🤖 AI, automation, and optimization tools<br>
+      - 🕹️ Godot & general game development<br>
+      - 🧪 Experimenting with scripts just to see what happens
+    </p>
+</div>
 
 ---
 
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&hide_border=true" alt="GitHub Trophy Wall" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&hide_border=true&title=-Issues" alt="GitHub Trophy Wall" width="100%" />
   </a>
 </p>
 
