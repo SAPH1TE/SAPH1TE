@@ -54,7 +54,7 @@
 
 </div>
 
-##
+---
 
 <div>
   <a href="https://github.com/SAPH1TE/Crisp-Browser">
