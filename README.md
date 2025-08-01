@@ -36,21 +36,21 @@
 
 <div align="center" style="max-width: 800px;">
   <p>
-    I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. 🔧 I break things to understand them, then (occasionally) make them better. 🧠 Neurodivergent chaos™ included.
+    I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. I break things to understand them, then (occasionally) make them better. Neurodivergent chaos™ included.
   </p>
-  <p> ⋆.˚ 🎮 Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord! 📩 (Likley to respond there!) ⋆.˚</p>
+  <p> ⋆.˚Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord! I'm likley to respond there!⋆.˚</p>
 </div>
 
 <!-- GitHub Stats - Top Section -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="Streak" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=jolly&hide_border=true" alt="Top Languages" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="Streak" width="57.6%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=jolly&hide_border=true" alt="Top Languages" width="37%" />
 </div>
 
 <!-- GitHub Stats - Bottom Section -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saph1te&theme=jolly&utcOffset=8" alt="Commits" width="34%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saph1te&theme=jolly&utcOffset=8" alt="Commits" width="39.3%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&hide_border=true" alt="GitHub Stats" width="55.3%" />
 
 </div>
 
@@ -71,6 +71,63 @@
 </div>
 
 ##
+
+## My Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FF64DA&color=291B3E)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FF64DA&color=291B3E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FF64DA&color=291B3E)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=FF64DA&color=291B3E)
+![Batch](https://img.shields.io/badge/Batch-1D1D1D?style=for-the-badge&logo=windows&logoColor=FF64DA&color=291B3E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FF64DA&color=291B3E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FF64DA&color=291B3E)
+![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=FF64DA&color=291B3E)
+![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=FF64DA&color=291B3E)
+![nmap](https://img.shields.io/badge/nmap-004d7a?style=for-the-badge&logo=gnu-bash&logoColor=FF64DA&color=291B3E)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=FF64DA&color=291B3E)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=FF64DA&color=291B3E)
+![Systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=FF64DA&color=291B3E)
+![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=FF64DA&color=291B3E)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=FF64DA&color=291B3E)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=owasp&logoColor=FF64DA&color=291B3E)
+![Photopea](https://img.shields.io/badge/Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=FF64DA&color=291B3E)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FF64DA&color=291B3E)
+![Jet Brains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=FF64DA&color=291B3E)
+![NV Chad](https://img.shields.io/badge/NV_Chad-5D9D50?style=for-the-badge&logo=neovim&logoColor=FF64DA&color=291B3E)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=FF64DA&color=291B3E)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=FF64DA&color=291B3E)
+![qBittorrent](https://img.shields.io/badge/qBittorrent-66B34E?style=for-the-badge&logo=qbittorrent&logoColor=FF64DA&color=291B3E)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=FF64DA&color=291B3E)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=FF64DA&color=291B3E)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FF64DA&color=291B3E)
+![Tor](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=tor-project&logoColor=FF64DA&color=291B3E)
+![Zsh](https://img.shields.io/badge/Zsh-89E051?style=for-the-badge&logo=gnu-bash&logoColor=FF64DA&color=291B3E)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=FF64DA&color=291B3E)
+![Neofetch](https://img.shields.io/badge/Neofetch-555555?style=for-the-badge&logo=linux&logoColor=FF64DA&color=291B3E)
+![Ghidra](https://img.shields.io/badge/Ghidra-4A4A4A?style=for-the-badge&logo=serverfault&logoColor=FF64DA&color=291B3E)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=FF64DA&color=291B3E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FF64DA&color=291B3E)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=FF64DA&color=291B3E)
+
+## Currently Learning
+
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=FF64DA&color=291B3E)
+![KiCad](https://img.shields.io/badge/KiCad-314182?style=for-the-badge&logo=kicad&logoColor=FF64DA&color=291B3E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FF64DA&color=291B3E)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FF64DA&color=291B3E)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=FF64DA&color=291B3E)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FF64DA&color=291B3E)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=FF64DA&color=291B3E)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FF64DA&color=291B3E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FF64DA&color=291B3E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=FF64DA&color=291B3E)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF64DA&color=291B3E)
+
+## 
+
+<!-- Add waka time -->
+
+<!-- Add Spotify Gif -->
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
