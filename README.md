@@ -38,7 +38,7 @@
   <p>
     I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. I break things to understand them, then (occasionally) make them better. Neurodivergent chaos™ included.
   </p>
-  <p> ⋆.˚Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord! I'm likley to respond there!⋆.˚</p>
+  <p> ⋆.˚Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord! I'm likely to respond there!⋆.˚</p>
 </div>
 
 <!-- GitHub Stats - Top Section -->
