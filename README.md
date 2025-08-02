@@ -123,6 +123,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=FF64DA&color=291B3E)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF64DA&color=291B3E)
 
+and yet, id say im still not a master at everything listed, im just more comfortable with them
+
 ## 
 
 <!-- Add waka time -->
