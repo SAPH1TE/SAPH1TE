@@ -1,21 +1,59 @@
 <!-- 
-  For anyone reading the code: Shoutout 2 u! 
-  This took a while 'cause GitHub blocks some CSS workarounds in markdown files.  
-  Wanna collab, vibe, or talk? Discord’s open: **@saph1te** 
+  =====================
+         WELCOME!
+  =====================
   
-  #==========================
-  # TO DO
-  #==========================
+  For anyone reading the code: Shoutout 2 u! 
+  
+  This took a while 'cause GitHub blocks some CSS workarounds in markdown files. 
+  But id say it paid off...
+  
+  Wanna collab, vibe, or talk? Discord’s open: **@saph1te** 
+
+  ======================
+      COLOR PALLETE
+  ======================
+  Theme: Jolly
+  
+  Dark Purple Base:
+    HEX:  291B3E
+    RGB:  41, 27, 62
+    CMYK: 34%, 56%, 0%, 76%
+    HSV:  263°, 56%, 24%
+    HSL:  263°, 39%, 17%
+    
+  White Text: 
+    Hex:  ffff
+    RGB:  255, 255, 255
+    CMYK: 0%, 0%, 0%, 0%
+    HSV:  0°, 0%, 100%
+    HSL:  0°, 0%, 100%
+    
+  Light Pink Text:
+    Hex:  FF64DA
+    RGB:  255, 100, 218
+    CMYK: 0%, 61%, 15%, 0%
+    HSV:  315°, 61%, 100%
+    HSL:  315°, 100%, 69%
+
+  ==========================
+           TO DO
+  ==========================
   - waka time
   - Spotify Gif
   - updating changelog
   - More Social refs
   - More Tech Stack Tools
   - Better Formatting
+
+  =========================
+          SOURCES
+  =========================
+  banner: https://www.furaffinity.net/view/50001051/ (i modified it to have diff colors)
+  Icons:  Sheilds.io
 -->
 
 <!-- Banner -->
-<!-- I got This From https://www.furaffinity.net/view/50001051/-->
 <p align="center">
   <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/BannerV2.png?raw=true" alt="GitHub Profile Banner" width="100%" />
 </p>
