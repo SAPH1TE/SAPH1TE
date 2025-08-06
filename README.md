@@ -47,6 +47,7 @@
   - updating changelog
   - More Social refs
   - More Tech Stack Tools
+  - Break up tech stack into more sections for easier readability
 
   =========================
           SOURCES
