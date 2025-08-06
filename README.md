@@ -57,6 +57,11 @@
   <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/BannerV2.png?raw=true" alt="GitHub Profile Banner" width="100%" />
 </p>
 
+<!--
+=========
+SECTION 1
+=========
+-->
 <!-- Social Badges -->
 <p align="center">
   
@@ -103,6 +108,12 @@
   </p>
 </div>
 
+<!--
+=========
+SECTION 2
+=========
+-->
+
 <!-- GitHub Stats - Top Section -->
 <div align="center">
   
@@ -128,6 +139,11 @@
 
 ---
 
+<!--
+=========
+SECTION 3
+=========
+-->
 <div>
   <!-- Pinned Repo -->
   <a href="https://github.com/SAPH1TE/Crisp-Browser">
@@ -144,6 +160,12 @@
       - 🧪 Experimenting with scripts just to see what happens
     </p>
 </div>
+
+<!--
+=========
+SECTION 4
+=========
+-->
 
 ## My Tech Stack
 <!--My Tech Stack -->
@@ -199,6 +221,12 @@
 and yet, id say im still not a master at everything listed, im just more comfortable with them
 
 ## 
+
+<!--
+=========
+SECTION 5
+=========
+-->
 
 <!-- Github Trophies -->
 <p align="center">
