@@ -90,8 +90,6 @@
     </p>
 </div>
 
-##
-
 ## My Tech Stack
 <!--My Tech Stack -->
 <!-- Not much comments for this block -->
@@ -129,7 +127,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=FF64DA&color=291B3E)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FF64DA&color=291B3E)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=FF64DA&color=291B3E)
-
 ## Currently Learning
 <!-- Currently Learning -->
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=FF64DA&color=291B3E)
