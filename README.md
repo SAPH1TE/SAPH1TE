@@ -44,7 +44,6 @@
   - updating changelog
   - More Social refs
   - More Tech Stack Tools
-  - Better Formatting
 
   =========================
           SOURCES
