@@ -4,11 +4,14 @@
   Wanna collab, vibe, or talk? Discord’s open: **@saph1te** 
   
   #==========================
-  # TO DO FOR LATER REVISIONS
+  # TO DO
   #==========================
-  - Add waka time
-  - Add Spotify Gif
-  - Add updating changelog
+  - waka time
+  - Spotify Gif
+  - updating changelog
+  - More Social refs
+  - More Tech Stack Tools
+  - Better Formatting
 -->
 
 <!-- Banner -->
