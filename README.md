@@ -60,28 +60,35 @@
 
 <!-- Social Badges -->
 <p align="center">
+  
   <!-- Steam Badge -->
   <a href="https://steamcommunity.com/profiles/76561199074085646">
     <img src="https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white" alt="Steam" />
   </a>
+
   <!-- Steam Badge -->
   <a href="https://www.youtube.com/@saph1tesaph1te-h8c">
     <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+  
   <!-- Spotify Badge -->
   <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme">
     <img src="https://img.shields.io/badge/Spotify-Vibes-1DB954?logo=spotify&logoColor=white" alt="Spotify" />
   </a>
+  
   <!-- TikTok Badge -->
   <a href="https://www.tiktok.com/@.saphite?lang=en">
     <img src="https://img.shields.io/badge/TikTok-_.saphite-000?logo=tiktok" alt="TikTok" />
   </a>
+  
   <!-- Discord Badge -->
   <a href="https://discord.com/users/1293353636168073330">
     <img src="https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white" alt="Discord" />
   </a>
+  
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=saph1te&color=blueviolet" alt="Profile Views" />
+  
 </p>
 
 <!-- Intro -->
@@ -99,19 +106,25 @@
 
 <!-- GitHub Stats - Top Section -->
 <div align="center">
+  
   <!-- Github Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="Streak" width="57.6%" />
+  
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=jolly&hide_border=true" alt="Top Languages" width="37%" />
+  
 </div>
 
 
 <!-- GitHub Stats - Bottom Section -->
 <div align="center">
+  
    <!-- Productive Time -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saph1te&theme=jolly&utcOffset=8" alt="Commits" width="39.3%"/>
+  
    <!-- Github Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&hide_border=true" alt="GitHub Stats" width="55.3%" />
+  
 </div>
 
 ---
@@ -120,7 +133,8 @@
   <!-- Pinned Repo -->
   <a href="https://github.com/SAPH1TE/Crisp-Browser">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Crisp-Browser" align="right" width="470"/>
-  </a>
+  </a
+    
   <!-- Im Currently working on -->
   ⚙️ <strong>I'm currently working on:</strong>
     <p>
