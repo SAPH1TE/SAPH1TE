@@ -8,6 +8,8 @@
 <p align="center">
   <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/New%2520Project.png?raw=true" alt="GitHub Profile Banner" width="100%" />
 </p>
+ 
+*psst for those reading im out rn, expect me to follow & star back by Thursday/Wednesday!*
 
 <!-- Social Badges -->
 <p align="center">
