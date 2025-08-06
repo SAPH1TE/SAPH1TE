@@ -1,31 +1,45 @@
 <!-- 
-  For anyone reading the code: Shoutout 2 u! 💜 
+  For anyone reading the code: Shoutout 2 u! 
   This took a while 'cause GitHub blocks some CSS workarounds in markdown files.  
   Wanna collab, vibe, or talk? Discord’s open: **@saph1te** 
+  
+  #==========================
+  # TO DO FOR LATER REVISIONS
+  #==========================
+  - Add waka time
+  - Add Spotify Gif
+  - Add updating changelog
 -->
 
 <!-- Banner -->
+<!-- I got This From https://www.furaffinity.net/view/50001051/-->
 <p align="center">
   <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/BannerV2.png?raw=true" alt="GitHub Profile Banner" width="100%" />
 </p>
 
 <!-- Social Badges -->
 <p align="center">
+  <!-- Steam Badge -->
   <a href="https://steamcommunity.com/profiles/76561199074085646">
     <img src="https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white" alt="Steam" />
   </a>
+  <!-- Steam Badge -->
   <a href="https://www.youtube.com/@saph1tesaph1te-h8c">
     <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+  <!-- Spotify Badge -->
   <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme">
     <img src="https://img.shields.io/badge/Spotify-Vibes-1DB954?logo=spotify&logoColor=white" alt="Spotify" />
   </a>
+  <!-- TikTok Badge -->
   <a href="https://www.tiktok.com/@.saphite?lang=en">
     <img src="https://img.shields.io/badge/TikTok-_.saphite-000?logo=tiktok" alt="TikTok" />
   </a>
+  <!-- Discord Badge -->
   <a href="https://discord.com/users/1293353636168073330">
     <img src="https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white" alt="Discord" />
   </a>
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=saph1te&color=blueviolet" alt="Profile Views" />
 </p>
 
@@ -34,32 +48,38 @@
   <strong>🐧 Linux Enthusiast</strong> | <strong>💻 Tech Geek</strong> | <strong>🎵 Music Junkie</strong> | <strong>🦊 Open Source Fan</strong>
 </p>
 
+<!-- About -->
 <div align="center" style="max-width: 800px;">
+  <!-- Line 1 -->
   <p>
     I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. I break things to understand them, then (occasionally) make them better. Neurodivergent chaos™ included.
   </p>
+  <!-- Line 2 -->
   <p> ⋆.˚Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord! I'm likely to respond there!⋆.˚</p>
 </div>
-
 <!-- GitHub Stats - Top Section -->
 <div align="center">
+  <!-- Github Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="Streak" width="57.6%" />
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=jolly&hide_border=true" alt="Top Languages" width="37%" />
 </div>
-
 <!-- GitHub Stats - Bottom Section -->
 <div align="center">
+   <!-- Productive Time -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saph1te&theme=jolly&utcOffset=8" alt="Commits" width="39.3%"/>
+   <!-- Github Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&hide_border=true" alt="GitHub Stats" width="55.3%" />
-
 </div>
 
 ---
 
 <div>
+  <!-- Pinned Repo -->
   <a href="https://github.com/SAPH1TE/Crisp-Browser">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Crisp-Browser" align="right" width="470"/>
   </a>
+  <!-- Im Currently working on -->
   ⚙️ <strong>I'm currently working on:</strong>
     <p>
       - 🛠️ Reverse engineering & system internals<br>
@@ -73,7 +93,8 @@
 ##
 
 ## My Tech Stack
-
+<!--My Tech Stack -->
+<!-- Not much comments for this block -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FF64DA&color=291B3E)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FF64DA&color=291B3E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FF64DA&color=291B3E)
@@ -110,7 +131,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=FF64DA&color=291B3E)
 
 ## Currently Learning
-
+<!-- Currently Learning -->
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=FF64DA&color=291B3E)
 ![KiCad](https://img.shields.io/badge/KiCad-314182?style=for-the-badge&logo=kicad&logoColor=FF64DA&color=291B3E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FF64DA&color=291B3E)
@@ -127,17 +148,14 @@ and yet, id say im still not a master at everything listed, im just more comfort
 
 ## 
 
-<!-- Add waka time -->
-
-<!-- Add Spotify Gif -->
-
+<!-- Github Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&hide_border=true&title=-Issues" alt="GitHub Trophy Wall" width="100%" />
   </a>
 </p>
 
-<!-- 
+<!--
   If you found this, you're probably as curious as me. 
-  Even though there is another easter egg above :3 :p 
+  Even though there is another easter egg above :p 
 -->
