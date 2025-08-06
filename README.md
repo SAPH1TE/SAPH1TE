@@ -51,15 +51,14 @@
   <strong>🐧 Linux Enthusiast</strong> | <strong>💻 Tech Geek</strong> | <strong>🎵 Music Junkie</strong> | <strong>🦊 Open Source Fan</strong>
 </p>
 
+
 <!-- About -->
 <div align="center" style="max-width: 800px;">
-  <!-- Line 1 -->
   <p>
-    I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. I break things to understand them, then (occasionally) make them better. Neurodivergent chaos™ included.
+    I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. I break things to understand them, then (occasionally) make them better Neurodivergent chaos™ included.
   </p>
-  <!-- Line 2 -->
-  <p> ⋆.˚Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord! I'm likely to respond there!⋆.˚</p>
 </div>
+
 <!-- GitHub Stats - Top Section -->
 <div align="center">
   <!-- Github Streak -->
@@ -67,6 +66,8 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=jolly&hide_border=true" alt="Top Languages" width="37%" />
 </div>
+
+
 <!-- GitHub Stats - Bottom Section -->
 <div align="center">
    <!-- Productive Time -->
