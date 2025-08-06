@@ -6,7 +6,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/Banner.png?raw=true" alt="GitHub Profile Banner" width="100%" />
+  <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/BannerV2.png?raw=true" alt="GitHub Profile Banner" width="100%" />
 </p>
 
 <!-- Social Badges -->
