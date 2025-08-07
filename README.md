@@ -154,8 +154,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FF64DA&color=291B3E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=FF64DA&color=291B3E)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF64DA&color=291B3E)
+<p align="center">
 And MUCH more!
-
+</p>
 ##
 
 <!-- Github Trophies -->
@@ -199,6 +200,8 @@ And MUCH more!
   <img src="https://komarev.com/ghpvc/?username=saph1te&color=blueviolet" alt="Profile Views" />
   
 </p>
+
+Please note this profile readme is still in development of many core features
 
 <!--
   If you found this, you're probably as curious as me. 
