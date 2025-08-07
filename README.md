@@ -92,7 +92,7 @@
 </div>
 
 
-  ## My Tech Stack
+  ## My Comfort Zone
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FF64DA&color=291B3E)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FF64DA&color=291B3E)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FF64DA&color=291B3E)
@@ -106,7 +106,6 @@
   ![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=FF64DA&color=291B3E)
   ![Zsh](https://img.shields.io/badge/Zsh-89E051?style=for-the-badge&logo=gnu-bash&logoColor=FF64DA&color=291B3E)
   ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=FF64DA&color=291B3E)
-  ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=FF64DA&color=291B3E)
   ![Systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=FF64DA&color=291B3E)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FF64DA&color=291B3E)
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=FF64DA&color=291B3E)
@@ -119,7 +118,7 @@
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=FF64DA&color=291B3E)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FF64DA&color=291B3E)
   ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=FF64DA&color=291B3E)
-  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FF64DA&color=291B3E)
+  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FF64DA&color=291B3E)
   ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=FF64DA&color=291B3E)
   ![NVChad](https://img.shields.io/badge/NVChad-5D9D50?style=for-the-badge&logo=neovim&logoColor=FF64DA&color=291B3E)
   ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=FF64DA&color=291B3E)
@@ -127,6 +126,11 @@
   ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=FF64DA&color=291B3E)
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=FF64DA&color=291B3E)
   ![qBittorrent](https://img.shields.io/badge/qBittorrent-66B34E?style=for-the-badge&logo=qbittorrent&logoColor=FF64DA&color=291B3E)
+  ![QEMU](https://img.shields.io/badge/QEMU-FF4655?style=for-the-badge&logo=qemu&logoColor=FF64DA&color=291B3E)
+  ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=FF64DA&color=291B3E)
+  ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=FF64DA&color=291B3E)
+  ![Proton](https://img.shields.io/badge/ProtonMail-8A3FFC?style=for-the-badge&logo=protonmail&logoColor=FF64DA&color=291B3E)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FF64DA&color=291B3E)
 
   ## Currently Learning  
 
