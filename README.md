@@ -170,21 +170,31 @@
 
 <!-- Socials & Stats -->
 <p align="center">
+  
   <a href="https://discord.com/users/1293353636168073330">
     <img src="https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white" alt="Discord" />
   </a>
+  
   <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme">
     <img src="https://img.shields.io/badge/Spotify-Vibes-1DB954?logo=spotify&logoColor=white" alt="Spotify" />
   </a>
+  
   <a href="https://steamcommunity.com/profiles/76561199074085646">
     <img src="https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white" alt="Steam" />
   </a>
+  
   <a href="https://www.youtube.com/@saph1tesaph1te-h8c">
     <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+  
   <a href="https://www.tiktok.com/@.saphite?lang=en">
     <img src="https://img.shields.io/badge/TikTok-_.saphite-000?logo=tiktok" alt="TikTok" />
-  <img src="https://komarev.com/ghpvc/?username=saph1te&color=blueviolet" alt="Profile Views" />
+  </a>
+  
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=saph1te&color=blueviolet" alt="Profile Views" />
+  </a>
+  
 </p>
 
 ##
