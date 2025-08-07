@@ -92,7 +92,7 @@
 </div>
 
 
-  ## Languages & Frameworks
+  ## My Tech Stack
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FF64DA&color=291B3E)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FF64DA&color=291B3E)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FF64DA&color=291B3E)
@@ -101,34 +101,24 @@
   ![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=FF64DA&color=291B3E)
   ![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=FF64DA&color=291B3E)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=FF64DA&color=291B3E)
-
-  ## Scripting & Shells
   ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=FF64DA&color=291B3E)
   ![Batch](https://img.shields.io/badge/Batch-1D1D1D?style=for-the-badge&logo=windows&logoColor=FF64DA&color=291B3E)
   ![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=FF64DA&color=291B3E)
   ![Zsh](https://img.shields.io/badge/Zsh-89E051?style=for-the-badge&logo=gnu-bash&logoColor=FF64DA&color=291B3E)
-
-  ## Operating Systems & Tools
   ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=FF64DA&color=291B3E)
   ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=FF64DA&color=291B3E)
   ![Systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=FF64DA&color=291B3E)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FF64DA&color=291B3E)
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=FF64DA&color=291B3E)
   ![Neofetch](https://img.shields.io/badge/Neofetch-555555?style=for-the-badge&logo=linux&logoColor=FF64DA&color=291B3E)
-
-  ## Security & Networking
   ![Nmap](https://img.shields.io/badge/Nmap-004d7a?style=for-the-badge&logo=gnu-bash&logoColor=FF64DA&color=291B3E)
   ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=FF64DA&color=291B3E)
   ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=owasp&logoColor=FF64DA&color=291B3E)
   ![Ghidra](https://img.shields.io/badge/Ghidra-4A4A4A?style=for-the-badge&logo=serverfault&logoColor=FF64DA&color=291B3E)
   ![Tor](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=tor-project&logoColor=FF64DA&color=291B3E)
-
-  ## Databases & Server Utils
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=FF64DA&color=291B3E)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FF64DA&color=291B3E)
   ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=FF64DA&color=291B3E)
-
-  ## Development Environment & Other Tools
   ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FF64DA&color=291B3E)
   ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=FF64DA&color=291B3E)
   ![NVChad](https://img.shields.io/badge/NVChad-5D9D50?style=for-the-badge&logo=neovim&logoColor=FF64DA&color=291B3E)
@@ -151,10 +141,6 @@
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF64DA&color=291B3E)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FF64DA&color=291B3E)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FF64DA&color=291B3E)
-
-  <p align="center">
-  ...and always eager to learn more!
-  </p>
 </details>
 
 ##
@@ -165,8 +151,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&hide_border=true&title=-Issues" alt="GitHub Trophy Wall" width="100%" />
   </a>
 </p>
-
-##
 
 <!-- Socials & Stats -->
 <p align="center">
