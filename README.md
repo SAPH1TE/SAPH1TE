@@ -92,10 +92,6 @@
 </div>
 
 
-<details>
-  <summary><h3>My Tech Stack</h3></summary>
-  
-  <!-- My Tech Stack (moved inside <details>) -->
   ## Languages & Frameworks
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FF64DA&color=291B3E)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FF64DA&color=291B3E)
@@ -141,10 +137,8 @@
   ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=FF64DA&color=291B3E)
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=FF64DA&color=291B3E)
   ![qBittorrent](https://img.shields.io/badge/qBittorrent-66B34E?style=for-the-badge&logo=qbittorrent&logoColor=FF64DA&color=291B3E)
-</details>
 
-<details>
-  <summary><h3>Currently Learning</h3></summary>
+  ## Currently Learning  
 
   ![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=FF64DA&color=291B3E)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FF64DA&color=291B3E)
