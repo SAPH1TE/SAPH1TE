@@ -100,7 +100,7 @@
       - 🌐 Full-stack web & backend architecture<br>
       - 🤖 AI, automation, and optimization tools<br>
       - 🕹️ Godot & general game development<br>
-      - 🧪 Experimenting with scripts just to see what happens
+      - 🧪 Experimenting with scripts just because
     </p>
 </div>
   
