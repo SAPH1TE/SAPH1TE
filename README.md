@@ -47,6 +47,7 @@
   - Finish social refs
   - Make github trophies custom jolly theme
   - Not Within this file but get more github achievments
+  - Add a sponsor section
   
   =========================
           SOURCES
@@ -115,8 +116,6 @@
 
   ## My Comfort Zone
 
-  <details>
-
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FF64DA&color=291B3E)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=FF64DA&color=291B3E)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FF64DA&color=291B3E)
@@ -156,11 +155,7 @@
   ![Proton](https://img.shields.io/badge/ProtonMail-8A3FFC?style=for-the-badge&logo=protonmail&logoColor=FF64DA&color=291B3E)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FF64DA&color=291B3E)
 
-  </details>
-
   ## Currently Learning  
-
-  <details>
 
   ![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=FF64DA&color=291B3E)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FF64DA&color=291B3E)
@@ -173,8 +168,6 @@
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF64DA&color=291B3E)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FF64DA&color=291B3E)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FF64DA&color=291B3E)
-
-  </details>
 
 ##
 
@@ -194,98 +187,81 @@
 
 </div>
 
-
 <!-- Who Really Cares Spotify Embed Gif Here-->
 
-
-<!-- Socials & Stats -->
+<!-- Socials -->
 <p align="center">
 
   <!-- Discord -->
   <a href="https://discord.com/users/1293353636168073330">
-    <img src="https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-@saph1te-000?logo=discord" alt="Discord" />
   </a>
   
   <!-- Spotify -->
   <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme">
-    <img src="https://img.shields.io/badge/Spotify-Vibes-1DB954?logo=spotify&logoColor=white" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-Vibes-000?logo=spotify" alt="Spotify" />
   </a>
   
   <!-- Steam -->
   <a href="https://steamcommunity.com/profiles/76561199074085646">
-    <img src="https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white" alt="Steam" />
+    <img src="https://img.shields.io/badge/Steam-Profile-000?logo=steam" alt="Steam" />
   </a>
   
   <!-- YouTube -->
   <a href="https://www.youtube.com/@saph1tesaph1te-h8c">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-Channel-000?logo=youtube" alt="YouTube" />
   </a>
-  
+
   <!-- TikTok -->
   <a href="https://www.tiktok.com/@.saphite?lang=en">
     <img src="https://img.shields.io/badge/TikTok-_.saphite-000?logo=tiktok" alt="TikTok" />
   </a>
   
   <!-- Facebook -->
-  <a>
+  <a href="https://www.facebook.com/people/Saphite-Saphite/pfbid02wQ2wnWFbMWcfRrVfwgpoZWiEoAQuJDHCNZNH74obpM8N6U89FyvB5muqJUrSk44Ql/">
+    <img src="https://img.shields.io/badge/Facebook-Saphite-000?logo=facebook" alt="Facebook" />
   </a>
 
   <!-- X/Twitter -->
-  <a>
+  <a href="https://x.com/saph1te">
+    <img src="https://img.shields.io/badge/X-%40saph1te-000?logo=x" alt="X/Twitter" />
   </a>
   
-  <!-- LinkedIn -->
-  <a>
-  </a>
-
-  <!-- hackerone -->
-  <a>
-  </a>
-
-  <!-- Portfolio -->
-  <a>
-  </a>
-  
-  <!-- Instagram -->
-  <a>
-  </a>
-
   <!-- Reddit -->
-  <a>
-  </a>
-  
-  <!-- Medium -->
-  <a>
+  <a href="https://www.reddit.com/user/Tricky_Way_7122/">
+    <img src="https://img.shields.io/badge/Reddit-u/Tricky_Way_7122-000?logo=reddit" alt="Reddit" />
   </a>
   
   <!-- Gitlab -->
-  <a>
+  <a href="https://gitlab.com/SAPH1TE">
+    <img src="https://img.shields.io/badge/GitLab-@SAPH1TE-000?logo=gitlab" alt="GitLab" />
   </a>
 
   <!-- Email -->
-  <a>
+  <a href="mailto:sssaphite@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sssaphite@gmail.com-000?logo=gmail" alt="Email" />
   </a>
 
   <!-- Archive.org -->
-  <a>
-  </a>
-  
-  <!-- Dev.to -->
-  <a>
-  </a>
-  
-  <!-- Profile views -->
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=saph1te&color=291B3E" alt="Profile Views" />
+  <a href="https://archive.org/details/@saph1te">
+    <img src="https://img.shields.io/badge/Archive.org-@saph1te-000?logo=internetarchive" alt="Archive.org" />
   </a>
   
 </p>
 
 ##
 
-<p align="center">
+<div align="center">
+<!-- Lil Thank you note -->
+<p>
   <i>This is still within heavy development. Thanks for visiting!</i>
 </p>
+
+<!-- Profile views -->
+<a>
+  <img src="https://komarev.com/ghpvc/?username=saph1te&color=291B3E" alt="Profile Views" />
+</a>
+</div>
 
 <!-- 
 Hi! if you found this you're probably as curious as me :p
