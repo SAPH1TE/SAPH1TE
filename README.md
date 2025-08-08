@@ -47,6 +47,7 @@
   - Finish social refs
   - Make github trophies custom jolly theme
   - Not Within this file but get more github achievments
+  - Add a sponsor section
   
   =========================
           SOURCES
@@ -201,91 +202,96 @@
 <!-- Socials & Stats -->
 <p align="center">
 
-  <!-- Discord -->
-  <a href="https://discord.com/users/1293353636168073330">
-    <img src="https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  
-  <!-- Spotify -->
-  <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme">
-    <img src="https://img.shields.io/badge/Spotify-Vibes-1DB954?logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-  
-  <!-- Steam -->
-  <a href="https://steamcommunity.com/profiles/76561199074085646">
-    <img src="https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white" alt="Steam" />
-  </a>
-  
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@saph1tesaph1te-h8c">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  
+  <br>
+
+<!-- Discord -->
+<a href="https://discord.com/users/1293353636168073330">
+  <img src="https://img.shields.io/badge/Discord-@saph1te-FF64DA?style=for-the-badge&logo=discord&logoColor=white&color=291B3E&labelColor=FF64DA" alt="Discord" />
+</a>
+
+<!-- Spotify -->
+<a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme">
+  <img src="https://img.shields.io/badge/Spotify-Vibes-FF64DA?style=for-the-badge&logo=spotify&logoColor=white&color=291B3E&labelColor=FF64DA" alt="Spotify" />
+</a>
+
+<!-- Steam -->
+<a href="https://steamcommunity.com/profiles/76561199074085646">
+  <img src="https://img.shields.io/badge/Steam-Profile-FF64DA?style=for-the-badge&logo=steam&logoColor=white&color=291B3E&labelColor=FF64DA" alt="Steam" />
+</a>
+
+<!-- YouTube -->
+<a href="https://www.youtube.com/@saph1tesaph1te-h8c">
+  <img src="https://img.shields.io/badge/YouTube-Channel-FF64DA?style=for-the-badge&logo=youtube&logoColor=white&color=291B3E&labelColor=FF64DA" alt="YouTube" />
+</a>
+
   <!-- TikTok -->
   <a href="https://www.tiktok.com/@.saphite?lang=en">
-    <img src="https://img.shields.io/badge/TikTok-_.saphite-000?logo=tiktok" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-_.saphite-FF64DA?style=for-the-badge&logo=tiktok&logoColor=white&color=291B3E&labelColor=FF64DA" alt="TikTok" />
   </a>
   
   <!-- Facebook -->
-  <a>
+  <a href="https://www.facebook.com/people/Saphite-Saphite/pfbid02wQ2wnWFbMWcfRrVfwgpoZWiEoAQuJDHCNZNH74obpM8N6U89FyvB5muqJUrSk44Ql/">
   </a>
 
   <!-- X/Twitter -->
-  <a>
+  <a href="https://x.com/saph1te">
   </a>
   
   <!-- LinkedIn -->
-  <a>
+  <a href="">
   </a>
 
   <!-- hackerone -->
-  <a>
+  <a href="">
   </a>
 
   <!-- Portfolio -->
-  <a>
+  <a href="">
   </a>
   
   <!-- Instagram -->
-  <a>
+  <a href="">
   </a>
 
   <!-- Reddit -->
-  <a>
+  <a href="">
   </a>
   
   <!-- Medium -->
-  <a>
+  <a href="">
   </a>
   
   <!-- Gitlab -->
-  <a>
+  <a href="https://gitlab.com/SAPH1TE">
   </a>
 
   <!-- Email -->
-  <a>
+  <a href="">
   </a>
 
   <!-- Archive.org -->
-  <a>
+  <a href="https://archive.org/details/@saph1te">
   </a>
   
   <!-- Dev.to -->
-  <a>
-  </a>
-  
-  <!-- Profile views -->
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=saph1te&color=291B3E" alt="Profile Views" />
+  <a href="">
   </a>
   
 </p>
 
 ##
 
-<p align="center">
+<div align="center">
+<!-- Lil Thank you note -->
+<p>
   <i>This is still within heavy development. Thanks for visiting!</i>
 </p>
+
+<!-- Profile views -->
+<a>
+  <img src="https://komarev.com/ghpvc/?username=saph1te&color=291B3E" alt="Profile Views" />
+</a>
+</div>
 
 <!-- 
 Hi! if you found this you're probably as curious as me :p
