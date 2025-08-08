@@ -1,5 +1,6 @@
 <!-- 
-  VERSION:1.8.1
+  VERSION:1.8.1, NOT 
+  Authored by saph1te
 
   =====================
          WELCOME!
@@ -38,12 +39,14 @@
   ==========================
            TO DO
   ==========================
-  - waka time
+  - waka time embed
   - Who Really cares Spotify Gif
   - updating changelog (kinda like a public updating diary)
   - More Tech Stack Tools
-  - More social refs
+  - Break up Tech stack into sections for readability
+  - Finish social refs
   - Make github trophies custom jolly theme
+  - Not Within this file but get more github achievments
   
   =========================
           SOURCES
@@ -91,7 +94,7 @@
     </p>
 </div>
 
-  <!-- Wakatime + Custom Theme Here -->
+  <!-- Custom Wakatime Embed Here-->
 
   ## My Comfort Zone
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FF64DA&color=291B3E)
@@ -149,15 +152,25 @@
 
 ##
 
+
+<div>
+
+<!-- changelog here -->
+
+  
 <!-- GitHub Trophies -->
-<!-- For the changelog the trophies will be changed into a 4x2 and the changelog will be on the right, like the pinned repo -->
+<!-- For the changelog the trophies will be changed into a 4x2 instead of a 8x1 and the changelog will be on the right, like the pinned repo -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues" alt="GitHub Trophy Wall" width="100%" />
   </a>
 </p>
 
-<!-- Who Really Cares Spotify Gif Here-->
+</div>
+
+
+<!-- Who Really Cares Spotify Embed Gif Here-->
+
 
 <!-- Socials & Stats -->
 <p align="center">
@@ -184,11 +197,46 @@
   </a>
   
   <!-- Facebook -->
-  
+  <a>
+  </a>
+
   <!-- X/Twitter -->
+  <a>
+  </a>
   
   <!-- LinkedIn -->
+  <a>
+  </a>
 
+  <!-- hackerone -->
+  <a>
+  </a>
+
+  <!-- Portfolio -->
+  <a>
+  </a>
+  
+  <!-- Instagram -->
+  <a>
+  </a>
+
+  <!-- Reddit -->
+  <a>
+  </a>
+  
+  <!-- Medium -->
+  <a>
+  </a>
+  
+  <!-- Gitlab -->
+  <a>
+  </a>
+
+  <!-- Email -->
+  <a>
+  </a>
+  
+  <!-- Profile views -->
   <a>
     <img src="https://komarev.com/ghpvc/?username=saph1te&color=291B3E" alt="Profile Views" />
   </a>
@@ -201,4 +249,6 @@
   <i>This is still within heavy development. Thanks for visiting!</i>
 </p>
 
-    
+<!-- 
+Hi! if you found this you're probably as curious as me :p
+-->
