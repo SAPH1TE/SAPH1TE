@@ -1,5 +1,5 @@
 <!-- 
-  VERSION:1.8.1, NOT 
+  VERSION:1.8.1, STILL EARLY RELEASE EXPECT HEAVY CHANGES
   Authored by saph1te
 
   =====================
@@ -39,7 +39,7 @@
   ==========================
            TO DO
   ==========================
-  - waka time embed
+  - custom waka time embed
   - Who Really cares Spotify Gif
   - updating changelog (kinda like a public updating diary)
   - More Tech Stack Tools
