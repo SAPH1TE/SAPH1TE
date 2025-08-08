@@ -202,8 +202,6 @@
 <!-- Socials & Stats -->
 <p align="center">
 
-  <br>
-
 <!-- Discord -->
 <a href="https://discord.com/users/1293353636168073330">
   <img src="https://img.shields.io/badge/Discord-@saph1te-FF64DA?style=for-the-badge&logo=discord&logoColor=white&color=291B3E&labelColor=FF64DA" alt="Discord" />
