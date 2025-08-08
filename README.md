@@ -116,8 +116,6 @@
 
   ## My Comfort Zone
 
-  <details>
-
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FF64DA&color=291B3E)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=FF64DA&color=291B3E)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FF64DA&color=291B3E)
@@ -157,11 +155,7 @@
   ![Proton](https://img.shields.io/badge/ProtonMail-8A3FFC?style=for-the-badge&logo=protonmail&logoColor=FF64DA&color=291B3E)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FF64DA&color=291B3E)
 
-  </details>
-
   ## Currently Learning  
-
-  <details>
 
   ![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=FF64DA&color=291B3E)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FF64DA&color=291B3E)
@@ -174,8 +168,6 @@
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF64DA&color=291B3E)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FF64DA&color=291B3E)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FF64DA&color=291B3E)
-
-  </details>
 
 ##
 
