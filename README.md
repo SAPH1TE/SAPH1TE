@@ -8,7 +8,7 @@
   For anyone reading the code: Shoutout 2 u! 
   
   This took a while 'cause GitHub blocks some CSS workarounds in markdown files. 
-  But id say it paid off...
+  But i would say it paid off...
   
   Wanna collab, vibe, or talk? Discord’s open: **@saph1te** 
 
@@ -45,14 +45,13 @@
   - waka time
   - Who Really cares Spotify Gif
   - updating changelog
-  - More Social refs
   - More Tech Stack Tools
 
   =========================
           SOURCES
   =========================
   banner: https://www.furaffinity.net/view/50001051/ (i modified it to have diff colors)
-  Icons:  Sheilds.io
+  Icons:  Sheilds.io, simpleicons.org
 -->
 
 <!-- Banner -->
@@ -179,6 +178,10 @@
     <img src="https://img.shields.io/badge/TikTok-_.saphite-000?logo=tiktok" alt="TikTok" />
   </a>
   
+  <!-- Facebook -->
+  <!-- X/Twitter -->
+  <!-- LinkedIn -->
+
   <a>
     <img src="https://komarev.com/ghpvc/?username=saph1te&color=blueviolet" alt="Profile Views" />
   </a>
