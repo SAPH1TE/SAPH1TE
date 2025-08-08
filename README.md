@@ -62,6 +62,19 @@
   <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/BannerV2.png?raw=true" alt="GitHub Profile Banner" width="100%" />
 </p>
 
+<!-- Intro -->
+<div align="center" style="max-width: 800px;">
+  <p>
+    <strong> Linux Enthusiast</strong> | <strong>Tech Geek</strong> | <strong> Music Junkie</strong> | <strong> Open Source <3</strong>
+  </p>
+  <p style="line-height:1.5;">
+      I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. I break        things to understand them, then (occasionally) make them better. Neurodivergent chaos™ included.
+  </p>
+  <p>Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord!</p>
+</div>
+
+##
+
 <!-- GitHub Stats Top Section -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="GitHub Streak" width="57.6%" />
@@ -233,6 +246,14 @@
   </a>
 
   <!-- Email -->
+  <a>
+  </a>
+
+  <!-- Archive.org -->
+  <a>
+  </a>
+  
+  <!-- Dev.to -->
   <a>
   </a>
   
