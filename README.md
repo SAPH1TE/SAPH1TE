@@ -4,20 +4,16 @@
   =====================
          WELCOME!
   =====================
-  
-  For anyone reading the code: Shoutout 2 u! 
-  
-  This took a while 'cause GitHub blocks some CSS workarounds in markdown files. 
-  But i would say it paid off...
-  
-  Wanna collab, vibe, or talk? Discord’s open: **@saph1te** 
+  - For anyone reading the code: Shoutout 2 u! 
+  - This took a while 'cause GitHub blocks some CSS workarounds in markdown files. 
+  - But i would say it paid off...
+  - Wanna collab, vibe, or talk? Discord’s open: **@saph1te** 
 
   ======================
       COLOR PALLETE
   ======================
-  Theme: Jolly
-  Although i had to use radical for trophies because Jolly is not currently supported
-  
+  Theme: "Jolly"
+
   Dark Purple Base:
     HEX:  291B3E
     RGB:  41, 27, 62
@@ -44,14 +40,18 @@
   ==========================
   - waka time
   - Who Really cares Spotify Gif
-  - updating changelog
+  - updating changelog (kinda like a public updating diary)
   - More Tech Stack Tools
-
+  - More social refs
+  - Make github trophies custom jolly theme
+  
   =========================
           SOURCES
   =========================
   banner: https://www.furaffinity.net/view/50001051/ (i modified it to have diff colors)
   Icons:  Sheilds.io, simpleicons.org
+
+
 -->
 
 <!-- Banner -->
@@ -59,12 +59,13 @@
   <img src="https://github.com/SAPH1TE/SAPH1TE/blob/main/BannerV2.png?raw=true" alt="GitHub Profile Banner" width="100%" />
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats Top Section -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="GitHub Streak" width="57.6%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=jolly&hide_border=true" alt="Top Languages" width="37%" />
 </div>
 
+<!-- GitHub Stats Bottom Section -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saph1te&theme=jolly&utcOffset=8" alt="Productive Time" width="39.3%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&hide_border=true" alt="GitHub Stats" width="55.3%" />
@@ -144,46 +145,53 @@
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF64DA&color=291B3E)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FF64DA&color=291B3E)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FF64DA&color=291B3E)
-</details>
 
 ##
 
 <!-- GitHub Trophies -->
+<!-- For the changelog the trophies will be changed into a 4x2 and the changelog will be on the right, like the pinned repo -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&hide_border=true&title=-Issues" alt="GitHub Trophy Wall" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues" alt="GitHub Trophy Wall" width="100%" />
   </a>
 </p>
 
+<!-- Wakatime + Custom Theme Here -->
+
+<!-- Who Really Cares Spotify Gif Here-->
+
 <!-- Socials & Stats -->
 <p align="center">
-  
+
+  <!-- Discord -->
   <a href="https://discord.com/users/1293353636168073330">
     <img src="https://img.shields.io/badge/Discord-@saph1te-5865F2?logo=discord&logoColor=white" alt="Discord" />
   </a>
-  
+  <!-- Spotify -->
   <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme">
     <img src="https://img.shields.io/badge/Spotify-Vibes-1DB954?logo=spotify&logoColor=white" alt="Spotify" />
   </a>
-  
+  <!-- Steam -->
   <a href="https://steamcommunity.com/profiles/76561199074085646">
     <img src="https://img.shields.io/badge/Steam-Profile-000?logo=steam&logoColor=white" alt="Steam" />
   </a>
-  
+  <!-- YouTube -->
   <a href="https://www.youtube.com/@saph1tesaph1te-h8c">
     <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  
+  <!-- TikTok -->
   <a href="https://www.tiktok.com/@.saphite?lang=en">
     <img src="https://img.shields.io/badge/TikTok-_.saphite-000?logo=tiktok" alt="TikTok" />
   </a>
   
   <!-- Facebook -->
+  
   <!-- X/Twitter -->
+  
   <!-- LinkedIn -->
 
   <a>
-    <img src="https://komarev.com/ghpvc/?username=saph1te&color=blueviolet" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=saph1te&color=291B3E" alt="Profile Views" />
   </a>
   
 </p>
