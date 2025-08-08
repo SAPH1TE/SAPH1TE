@@ -1,5 +1,5 @@
 <!-- 
-  VERSION:1.8
+  VERSION:1.8.1
 
   =====================
          WELCOME!
@@ -91,6 +91,7 @@
     </p>
 </div>
 
+  <!-- Wakatime + Custom Theme Here -->
 
   ## My Comfort Zone
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FF64DA&color=291B3E)
@@ -155,8 +156,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues" alt="GitHub Trophy Wall" width="100%" />
   </a>
 </p>
-
-<!-- Wakatime + Custom Theme Here -->
 
 <!-- Who Really Cares Spotify Gif Here-->
 
