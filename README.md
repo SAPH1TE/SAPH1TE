@@ -247,6 +247,11 @@
   <a href="https://archive.org/details/@saph1te">
     <img src="https://img.shields.io/badge/Archive.org-@saph1te-000?logo=internetarchive" alt="Archive.org" />
   </a>
+
+  <!-- Hacker1 -->
+  <a href="https://hackerone.com/saphite?type=user">
+    <img src="https://img.shields.io/badge/HackerOne-saphitte-000?logo=HackerOne" alt="Archive.org" />
+  </a>
   
 </p>
 
