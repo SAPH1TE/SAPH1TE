@@ -80,6 +80,7 @@
 
 ##
 
+<!-- Pls somone show me the formula 4 this 🙏 or sm for this so i dont need to manually figure out the width every time i update it -->
 <!-- GitHub Stats Top Section -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="GitHub Streak" width="57.6%" />
