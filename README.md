@@ -1,3 +1,4 @@
+      
 <!-- 
   VERSION:1.8.1, STILL EARLY RELEASE EXPECT HEAVY CHANGES
   Authored by saph1te
@@ -6,14 +7,14 @@
          WELCOME!
   =====================
   - For anyone reading the code: Shoutout 2 u! 
-  - This took a while 'cause GitHub blocks some CSS workarounds in markdown files. 
+  - This took a while 'cause GitHub blocks some CSS workarounds in markdown files which i have attempted heavily. 
   - But i would say it paid off...
   - Wanna collab, vibe, or talk? Discord’s open: **@saph1te** 
 
   ======================
       COLOR PALLETE
   ======================
-  Theme: "Jolly"
+  Common Theme: "Jolly"
 
   Dark Purple Base:
     HEX:  291B3E
@@ -41,27 +42,31 @@
   ==========================
   - custom waka time embed
   - Who Really cares Spotify Gif
-  - updating changelog (kinda like a public updating diary)
-  - More Tech Stack Tools 
+  - updating changelog (kinda like a public updating diary) -> Current idea is to fetch a dialy updaing static image generated from a vercel deployment
+  - More Tech Stack Tools
   - Break up Tech stack into sections for readability
-  - Finish social refs
   - Make github trophies custom jolly theme
   - Not Within this file, but get more github achievments
-  - Add a sponsor section (eg kofi)
+  - Add a sponsor section (eg kofi, buy me a coffee ect)
+  - creating a separate file or using a script to generate the badges to declutter, or perhaps store them in the repo to lower exernal requests?
   - Have Fun :D
   
   =========================
           SOURCES
   =========================
-  banner: https://www.furaffinity.net/view/50001051/ (i modified it to have diff colors)
-  Icons:  Sheilds.io, simpleicons.org
-
+  - Banner Art: Modified by me. Original from https://www.furaffinity.net/view/50001051/
+  - Icons & Badges: Shields.io (https://shields.io/), Simple Icons (https://simpleicons.org/)
+  - GitHub Readme Stats (https://github.com/anuraghazra/github-readme-stats)
+  - GitHub Readme Streak Stats (https://github.com/denvercoder1/github-readme-streak-stats)
+  - GitHub Profile Summary Cards (https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  - Trophies: GitHub Profile Trophy (https://github.com/ryo-ma/github-profile-trophy)
+  - Views Counter: GitHub Profile Views Counter (https://github.com/Komarev/ghpvc)
 
 -->
 
 <!-- Banner -->
 <p align="center">
-  <img src="BannerV2.png" alt="GitHub Profile Banner" width="100%" />
+  <img src="BannerV2.png" alt="Saph1te's stylized profile banner" width="100%" /> <!-- im changing the alts for accessibility -->
 </p>
 
 <!-- Intro -->
@@ -72,7 +77,7 @@
   </p>
       
   <p style="line-height:1.5;">
-      I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. I break        things to understand them, then (occasionally) make them            better. Neurodivergent chaos™ included.
+      I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. I break        things to understand them, then (occasionally) make them better. Neurodivergent chaos™ included.
   </p>
   
   <p>Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord!</p>
@@ -81,16 +86,17 @@
 
 ##
 
+<!-- Pls somone show me the formula 4 this 🙏 or sm for this so i dont need to manually figure out the width every time i update it, And yes ive tried tables -->
 <!-- GitHub Stats Top Section -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="GitHub Streak" width="57.6%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=jolly&hide_border=true" alt="Top Languages" width="37%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="Saph1te's GitHub commit streak statistics." width="57.6%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=jolly&hide_border=true" alt="A donut chart showing Saph1te's top languages." width="37%" />
 </div>
 
 <!-- GitHub Stats Bottom Section -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saph1te&theme=jolly&utcOffset=8" alt="Productive Time" width="39.3%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&hide_border=true" alt="GitHub Stats" width="55.3%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saph1te&theme=jolly&utcOffset=8" alt="A chart showing Saph1te's most productive time on GitHub." width="39.3%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&hide_border=true" alt="Saph1te's overall GitHub statistics card." width="55.3%" />
 </div>
 
 ##
@@ -99,17 +105,17 @@
   
   <!-- Pinned Repo -->
   <a href="https://github.com/SAPH1TE/Crisp-Browser">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Crisp-Browser" align="right" width="470"/>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Pinned GitHub Repository: Crisp-Browser" align="right" width="470"/>
   </a
     
   <!-- Im Currently working on -->
-  ⚙️ <strong>I'm currently working on:</strong>
+   <strong>I'm currently working on:</strong>
     <p>
-      - 🛠️ Reverse engineering & system internals<br>
-      - 🌐 Full-stack web & backend architecture<br>
-      - 🤖 AI, automation, and optimization tools<br>
-      - 🕹️ Godot & general game development<br>
-      - 🧪 Experimenting with scripts just because
+      -  Reverse engineering & system internals<br>
+      -  Full-stack web & backend architecture<br>
+      -  AI, automation, and optimization tools<br>
+      -  Godot & general game development<br>
+      -  Experimenting with scripts just because
     </p>
 </div>
 
@@ -127,8 +133,6 @@
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=FF64DA&color=291B3E)
   ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=FF64DA&color=291B3E)
   ![Batch](https://img.shields.io/badge/Batch-1D1D1D?style=for-the-badge&logo=microsoft-powershell&logoColor=FF64DA&color=291B3E)
-  ![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=FF64DA&color=291B3E)
-  ![Zsh](https://img.shields.io/badge/Zsh-89E051?style=for-the-badge&logo=gnu-bash&logoColor=FF64DA&color=291B3E)
   ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=FF64DA&color=291B3E)
   ![Systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=FF64DA&color=291B3E)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FF64DA&color=291B3E)
@@ -177,12 +181,11 @@
 
 <!-- changelog here? -->
 
-  
 <!-- GitHub Trophies -->
 <!-- For the changelog the trophies will be changed into a 4x2 instead of a 8x1 and the changelog will be on the right, like the pinned repo -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues" alt="GitHub Trophy Wall" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues" alt="A collection of saph1te's GitHub Trophies." width="100%" />
   </a>
 </p>
 
@@ -195,57 +198,57 @@
 
   <!-- Discord -->
   <a href="https://discord.com/users/1293353636168073330">
-    <img src="https://img.shields.io/badge/Discord-@saph1te-000?logo=discord" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-@saph1te-000?logo=discord" alt="Link to Discord profile: @saph1te" />
   </a>
   
   <!-- Spotify -->
   <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme">
-    <img src="https://img.shields.io/badge/Spotify-Vibes-000?logo=spotify" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-Vibes-000?logo=spotify" alt="Link to Spotify profile" />
   </a>
   
   <!-- Steam -->
   <a href="https://steamcommunity.com/profiles/76561199074085646">
-    <img src="https://img.shields.io/badge/Steam-Profile-000?logo=steam" alt="Steam" />
+    <img src="https://img.shields.io/badge/Steam-Profile-000?logo=steam" alt="Link to Steam profile" />
   </a>
   
   <!-- YouTube -->
   <a href="https://www.youtube.com/@saph1tesaph1te-h8c">
-    <img src="https://img.shields.io/badge/YouTube-Channel-000?logo=youtube" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-Channel-000?logo=youtube" alt="Link to YouTube channel" />
   </a>
 
   <!-- TikTok -->
   <a href="https://www.tiktok.com/@.saphite?lang=en">
-    <img src="https://img.shields.io/badge/TikTok-_.saphite-000?logo=tiktok" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-_.saphite-000?logo=tiktok" alt="Link to TikTok profile" />
   </a>
   
   <!-- Facebook -->
   <a href="https://www.facebook.com/people/Saphite-Saphite/pfbid02wQ2wnWFbMWcfRrVfwgpoZWiEoAQuJDHCNZNH74obpM8N6U89FyvB5muqJUrSk44Ql/">
-    <img src="https://img.shields.io/badge/Facebook-Saphite-000?logo=facebook" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Saphite-000?logo=facebook" alt="Link to Facebook profile" />
   </a>
 
   <!-- X/Twitter -->
   <a href="https://x.com/saph1te">
-    <img src="https://img.shields.io/badge/X-%40saph1te-000?logo=x" alt="X/Twitter" />
+    <img src="https://img.shields.io/badge/X-%40saph1te-000?logo=x" alt="Link to X (Twitter) profile: @saph1te" />
   </a>
   
   <!-- Reddit -->
   <a href="https://www.reddit.com/user/Tricky_Way_7122/">
-    <img src="https://img.shields.io/badge/Reddit-u/Tricky_Way_7122-000?logo=reddit" alt="Reddit" />
+    <img src="https://img.shields.io/badge/Reddit-u/Tricky_Way_7122-000?logo=reddit" alt="Link to Reddit profile" />
   </a>
   
   <!-- Gitlab -->
   <a href="https://gitlab.com/SAPH1TE">
-    <img src="https://img.shields.io/badge/GitLab-@SAPH1TE-000?logo=gitlab" alt="GitLab" />
+    <img src="https://img.shields.io/badge/GitLab-@SAPH1TE-000?logo=gitlab" alt="Link to GitLab profile" />
   </a>
 
   <!-- Email -->
   <a href="mailto:sssaphite@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sssaphite@gmail.com-000?logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-sssaphite@gmail.com-000?logo=gmail" alt="Contact via Email" />
   </a>
 
   <!-- Archive.org -->
   <a href="https://archive.org/details/@saph1te">
-    <img src="https://img.shields.io/badge/Archive.org-@saph1te-000?logo=internetarchive" alt="Archive.org" />
+    <img src="https://img.shields.io/badge/Archive.org-@saph1te-000?logo=internetarchive" alt="Link to Archive.org profile" />
   </a>
   
 </p>
@@ -260,10 +263,12 @@
 
 <!-- Profile views -->
 <a>
-  <img src="https://komarev.com/ghpvc/?username=saph1te&color=291B3E" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=saph1te&color=291B3E" alt="A counter showing the total number of views for this profile." />
 </a>
 </div>
 
 <!-- 
 Hi! if you found this you're probably as curious as me :p
 -->
+
+    
