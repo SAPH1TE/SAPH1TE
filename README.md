@@ -12,7 +12,7 @@
   - Wanna collab, vibe, or talk? Discord’s open: **@saph1te** 
 
   ======================
-      COLOR PALLETE
+      COLOR PALLETE 
   ======================
   Common Theme: "Jolly"
 
@@ -86,7 +86,7 @@
 
 ##
 
-<!-- Pls somone show me the formula 4 this 🙏 or sm for this so i dont need to manually figure out the width every time i update it, And yes ive tried tables -->
+<!-- Pls somone show me the formula 4 this 🙏 or sm for this so i dont need to manually figure out the width every time i update it, And yes ive tried tables --.
 <!-- GitHub Stats Top Section -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="Saph1te's GitHub commit streak statistics." width="57.6%" />
@@ -102,7 +102,7 @@
 ##
 
 <div>
-  
+  <!-- RANDOM COMMIT TO KEEP STREAKKK -->
   <!-- Pinned Repo -->
   <a href="https://github.com/SAPH1TE/Crisp-Browser">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Pinned GitHub Repository: Crisp-Browser" align="right" width="470"/>
@@ -249,6 +249,11 @@
   <!-- Archive.org -->
   <a href="https://archive.org/details/@saph1te">
     <img src="https://img.shields.io/badge/Archive.org-@saph1te-000?logo=internetarchive" alt="Link to Archive.org profile" />
+  </a>
+
+  <!-- Hacker1 -->
+  <a href="https://hackerone.com/saphite?type=user">
+    <img src="https://img.shields.io/badge/HackerOne-saphitte-000?logo=HackerOne" alt="Archive.org" />
   </a>
   
 </p>
