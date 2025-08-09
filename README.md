@@ -44,7 +44,6 @@
   - updating changelog (kinda like a public updating diary)
   - More Tech Stack Tools
   - Break up Tech stack into sections for readability
-  - Finish social refs
   - Make github trophies custom jolly theme
   - Not Within this file but get more github achievments
   - Add a sponsor section
