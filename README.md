@@ -42,12 +42,13 @@
   - custom waka time embed
   - Who Really cares Spotify Gif
   - updating changelog (kinda like a public updating diary)
-  - More Tech Stack Tools
+  - More Tech Stack Tools 
   - Break up Tech stack into sections for readability
   - Finish social refs
   - Make github trophies custom jolly theme
-  - Not Within this file but get more github achievments
-  - Add a sponsor section
+  - Not Within this file, but get more github achievments
+  - Add a sponsor section (eg kofi)
+  - Have Fun :D
   
   =========================
           SOURCES
@@ -112,7 +113,7 @@
     </p>
 </div>
 
-  <!-- Custom Wakatime Embed Here-->
+  <!-- Custom Wakatime Embed Here?-->
 
   ## My Comfort Zone
 
@@ -174,7 +175,7 @@
 
 <div>
 
-<!-- changelog here -->
+<!-- changelog here? -->
 
   
 <!-- GitHub Trophies -->
@@ -187,7 +188,7 @@
 
 </div>
 
-<!-- Who Really Cares Spotify Embed Gif Here-->
+<!-- Who Really Cares Spotify Embed Gif Here?-->
 
 <!-- Socials -->
 <p align="center">
