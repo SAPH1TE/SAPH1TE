@@ -11,7 +11,7 @@
   - Wanna collab, vibe, or talk? Discord’s open: **@saph1te** 
 
   ======================
-      COLOR PALLETE
+      COLOR PALLETE 
   ======================
   Theme: "Jolly"
 
@@ -95,7 +95,7 @@
 ##
 
 <div>
-  
+  <!-- RANDOM COMMIT TO KEEP STREAKKK -->
   <!-- Pinned Repo -->
   <a href="https://github.com/SAPH1TE/Crisp-Browser">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Crisp-Browser" align="right" width="470"/>
