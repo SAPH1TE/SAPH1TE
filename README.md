@@ -40,7 +40,7 @@
   ==========================
            TO DO
   ==========================
-  - custom waka time embed
+  - custom waka time embed (or just an existing one that supports jolly but likley not)
   - Who Really cares Spotify Gif
   - updating changelog (kinda like a public updating diary) -> Current idea is to fetch a dialy updaing static image generated from a vercel deployment
   - More Tech Stack Tools
