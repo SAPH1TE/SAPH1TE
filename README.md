@@ -1,4 +1,3 @@
-      
 <!-- 
   VERSION:1.8.1, STILL EARLY RELEASE EXPECT HEAVY CHANGES
   Authored by saph1te
@@ -102,7 +101,6 @@
 ##
 
 <div>
-  <!-- RANDOM COMMIT TO KEEP STREAKKK -->
   <!-- Pinned Repo -->
   <a href="https://github.com/SAPH1TE/Crisp-Browser">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Pinned GitHub Repository: Crisp-Browser" align="right" width="470"/>
