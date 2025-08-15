@@ -43,13 +43,14 @@
   - custom waka time embed (or just an existing one that supports jolly but likley not)
   - Who Really cares Spotify Gif
   - updating changelog (kinda like a public updating diary) -> Current idea is to fetch a dialy updaing static image generated from a vercel deployment
-  - More Tech Stack Tools
   - Break up Tech stack into sections for readability
   - Make the tech stack a single SVG to be loaded for less requests and optimization
   - Make github trophies custom jolly theme
   - Not Within this file, but get more github profile badges
   - Add a sponsor section (eg kofi, buy me a coffee ect)
-  - creating a separate file or using a script to generate the badges to declutter, or perhaps store them in the repo to lower exernal requests?
+  - Animate the banner?
+  - Perhaps add a guest book for people on my profile to sign?
+  - Include the entirety of undertale CH1 that the user can play? (jk)
   - Have Fun :D
   
   =========================
@@ -122,7 +123,7 @@
   <!-- Custom Wakatime Embed Here?-->
 
   ## My Comfort Zone
-
+  <!-- Here is where i would do <img src="badges/badgename.svg" alt="badge"> for every badge once im done doing the SVGs-->
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FF64DA&color=291B3E)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=FF64DA&color=291B3E)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FF64DA&color=291B3E)
@@ -180,15 +181,15 @@
 <div>
       
 <!-- Changelog -->
- <p align="right">
-  <img src="https://TEMP.vercel.app/api/changelog" alt="My Changelog" /> <!-- didn't do the vercel deployment yet -->
+<p align="right">
+  <img src="https://TEMP.vercel.app/api/changelog" alt="My Changelog" /> <!-- didn't do the vercel deployment yet, Nor finished setting it up -->
 </p>
       
  <!-- GitHub Trophies -->
- <p>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues&row=2&column=4" alt="A collection of saph1te's GitHub Trophies." width="50%" />
-      </a>
+<p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues&row=2&column=4" alt="A collection of saph1te's GitHub Trophies." width="50%" />
+ </a>
 </p>
       
 </div>
