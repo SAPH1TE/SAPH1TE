@@ -1,13 +1,19 @@
 // api/changelog.js
-import { html } from 'satori-html';
-import satori from 'satori';
-import { readFileSync } from 'fs';
-import path from 'path';
 
-export default async function handler(req, res) {
+// Use require for built-in CJS modules
+const { readFileSync } = require('fs');
+const path = require('path');
+
+// Use module.exports instead of export default
+module.exports = async function handler(req, res) {
   try {
-    // --- 1. LOAD FONT DATA ---
-    // Resolve the path to the font file relative to the current file
+    // --- Dynamically import the ESM packages ---
+    const { html } = await import('satori-html');
+    const satori = (await import('satori')).default; // Satori uses a default export
+
+    // --- The rest of your code remains the same ---
+
+    // Load Font Data
     const fontPath = path.join(process.cwd(), 'Roboto-Regular.ttf');
     const fontData = readFileSync(fontPath);
 
@@ -33,13 +39,13 @@ export default async function handler(req, res) {
       </div>
     `);
 
-    // --- 2. PASS FONT DATA TO SATORI ---
+    // Generate the SVG
     const svg = await satori(markup, {
       width: 450,
       height: 200,
       fonts: [
         {
-          name: 'Roboto', // This name must match the font-family in your CSS
+          name: 'Roboto',
           data: fontData,
           weight: 400,
           style: 'normal',
@@ -53,7 +59,7 @@ export default async function handler(req, res) {
     res.status(200).send(svg);
 
   } catch (error) {
-    console.error(error); // This will help debug in your server logs
+    console.error(error);
     res.status(500).send('Error generating changelog image');
   }
 }
