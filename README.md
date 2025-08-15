@@ -178,19 +178,19 @@
 
 
 <div>
-
+      
 <!-- Changelog -->
-<p align="center">
+ <p align="right">
   <img src="https://TEMP.vercel.app/api/changelog" alt="My Changelog" /> <!-- didn't do the vercel deployment yet -->
 </p>
-
-<!-- GitHub Trophies -->
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues&row=2&column=4" alt="A collection of saph1te's GitHub Trophies." width="50%" />
-  </a>
+      
+ <!-- GitHub Trophies -->
+ <p>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues&row=2&column=4" alt="A collection of saph1te's GitHub Trophies." width="50%" />
+      </a>
 </p>
-
+      
 </div>
 
 <!-- Who Really Cares Spotify Embed Gif Here?-->
