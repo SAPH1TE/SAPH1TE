@@ -1,3 +1,4 @@
+      
 <!-- 
   VERSION:1.8.1, STILL EARLY RELEASE EXPECT HEAVY CHANGES
   Authored by saph1te
@@ -44,8 +45,9 @@
   - updating changelog (kinda like a public updating diary) -> Current idea is to fetch a dialy updaing static image generated from a vercel deployment
   - More Tech Stack Tools
   - Break up Tech stack into sections for readability
+  - Make the tech stack a single SVG to be loaded for less requests and optimization
   - Make github trophies custom jolly theme
-  - Not Within this file, but get more github achievments
+  - Not Within this file, but get more github profile badges
   - Add a sponsor section (eg kofi, buy me a coffee ect)
   - creating a separate file or using a script to generate the badges to declutter, or perhaps store them in the repo to lower exernal requests?
   - Have Fun :D
@@ -134,7 +136,7 @@
   ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=FF64DA&color=291B3E)
   ![Systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=FF64DA&color=291B3E)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FF64DA&color=291B3E)
-  ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=FF64DA&color=291B3E)
+  ![VirtualBox](httpUnderstood! Looking at your "TO DO" list provides a clear roadmap for what's next. A changelog can also include a "s://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=FF64DA&color=291B3E)
   ![Neofetch](https://img.shields.io/badge/Neofetch-555555?style=for-the-badge&logo=linux&logoColor=FF64DA&color=291B3E)
   ![Nmap](https://img.shields.io/badge/Nmap-004d7a?style=for-the-badge&logo=gnu-bash&logoColor=FF64DA&color=291B3E)
   ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=FF64DA&color=291B3E)
@@ -177,13 +179,15 @@
 
 <div>
 
-<!-- changelog here? -->
+<!-- Changelog -->
+<p align="center">
+  <img src="https://TEMP.vercel.app/api/changelog" alt="My Changelog" /> <!-- didn't do the vercel deployment yet -->
+</p>
 
 <!-- GitHub Trophies -->
-<!-- For the changelog the trophies will be changed into a 4x2 instead of a 8x1 and the changelog will be on the right, like the pinned repo -->
-<p align="center">
+<p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues" alt="A collection of saph1te's GitHub Trophies." width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues&row=2&column=4" alt="A collection of saph1te's GitHub Trophies." width="50%" />
   </a>
 </p>
 
@@ -262,6 +266,7 @@
 <!-- Lil Thank you note -->
 <p>
   <i>This is still within heavy development. Thanks for visiting!</i>
+  <i>For those wondering i stopped starring things back for no reason because it got to an exessive amount</i>
 </p>
 
 <!-- Profile views -->
