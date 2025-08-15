@@ -123,7 +123,7 @@
   <!-- Custom Wakatime Embed Here?-->
 
   ## My Comfort Zone
-  <!-- Here is where i would do <img src="badges/comfortbadges.svg" alt="My comfort zone badges"> once im done doing the SVGs-->
+  <!-- Here is where i would do <img src="media/comfortbadges.svg" alt="My comfort zone badges"> once im done doing the SVGs-->
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FF64DA&color=291B3E)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=FF64DA&color=291B3E)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FF64DA&color=291B3E)
@@ -162,7 +162,7 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FF64DA&color=291B3E)
 
   ## Currently Learning  
-
+  <!-- Here is where i would do <img src="media/learningbadges.svg" alt="My comfort zone badges"> once im done doing the SVGs-->
   ![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=FF64DA&color=291B3E)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FF64DA&color=291B3E)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FF64DA&color=291B3E)
