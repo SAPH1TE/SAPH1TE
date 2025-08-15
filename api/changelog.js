@@ -56,13 +56,4 @@ export default async function handler(req, res) {
     console.error(error); // This will help debug in your server logs
     res.status(500).send('Error generating changelog image');
   }
-}```
-
-**Summary of Changes:**
-
-1.  **Load Font:** We use `readFileSync` to get the binary data of your font file.
-2.  **`process.cwd()`:** This is a reliable way in most serverless environments to get the root directory of your deployed project where the `Roboto-Regular.ttf` and `changelog.json` files would be located.
-3.  **Pass to `satori`:** The font data is passed into the `fonts` array in the `satori` options object.
-4.  **`font-family`:** I updated the `font-family` in your HTML to `'Roboto'` to match the `name` you gave the font. This is crucial.
-
-After making these changes and deploying, your function should be able to successfully generate the SVG.
+}
