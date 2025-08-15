@@ -1,0 +1,16 @@
+{
+  "name": "Saph1tesProfileApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: Error\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "satori": "^0.10.13",
+    "satori-html": "^0.3.2"
+  }
+}
