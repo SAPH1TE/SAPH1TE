@@ -68,7 +68,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="BannerV2.png" alt="Saph1te's stylized profile banner" width="100%" /> <!-- im changing the alts for accessibility -->
+  <img src="media/Banner.png" alt="Saph1te's profile banner" width="100%" /> <!-- im changing the alts for accessibility -->
 </p>
 
 <!-- Intro -->
