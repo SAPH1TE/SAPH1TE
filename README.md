@@ -123,7 +123,7 @@
   <!-- Custom Wakatime Embed Here?-->
 
   ## My Comfort Zone
-  <!-- Here is where i would do <img src="badges/badgename.svg" alt="badge"> for every badge once im done doing the SVGs-->
+  <!-- Here is where i would do <img src="badges/badges.svg" alt="My comfort zone badges"> once im done doing the SVGs-->
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FF64DA&color=291B3E)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=FF64DA&color=291B3E)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FF64DA&color=291B3E)
