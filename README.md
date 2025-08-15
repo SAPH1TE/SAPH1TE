@@ -264,6 +264,7 @@
 <!-- Lil Thank you note -->
 <p>
   <i>This is still within heavy development. Thanks for visiting!</i>
+  <i>For those wondering i stopped starring things back for no reason because it got to an exessive amount</i>
 </p>
 
 <!-- Profile views -->
