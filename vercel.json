@@ -1,7 +1,8 @@
 {
   "headers": [
     {
-      "source": "/api/changelog",
+      "source": "/(.*)",
+      "destination": "/",
       "headers": [
         {
           "key": "Cache-Control",
