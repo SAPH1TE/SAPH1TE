@@ -88,7 +88,7 @@
 
 ##
 
-<!-- Pls somone show me the formula 4 this or sm for this so i dont need to manually figure out the width every time i update it, And yes ive tried tables, flexboxes, ect --.
+<!-- Pls somone show me the formula 4 this or sm for this so i dont need to manually figure out the width every time i update it though i am considering just doing an SVG for this because of it, And yes ive tried tables, flexboxes, ect -->
 <!-- GitHub Stats Top Section -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="Saph1te's GitHub commit streak statistics." width="57.6%" />
@@ -202,37 +202,37 @@
 
   <!-- Discord -->
   <a href="https://discord.com/users/1293353636168073330">
-    <img src="https://img.shields.io/badge/Discord-@saph1te-000?logo=discord" alt="Link to Discord profile: @saph1te" />
+    <img src="https://img.shields.io/badge/Discord-@sap1te-000?logo=discord" alt="Link to Discord profile: @saph1te" />
   </a>
   
   <!-- Spotify -->
   <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme">
-    <img src="https://img.shields.io/badge/Spotify-Vibes-000?logo=spotify" alt="Link to Spotify profile" />
+    <img src="https://img.shields.io/badge/Spotify-@saph1te-000?logo=spotify" alt="Link to Spotify profile" />
   </a>
   
   <!-- Steam -->
   <a href="https://steamcommunity.com/profiles/76561199074085646">
-    <img src="https://img.shields.io/badge/Steam-Profile-000?logo=steam" alt="Link to Steam profile" />
+    <img src="https://img.shields.io/badge/Steam-@saphite-000?logo=steam" alt="Link to Steam profile" />
   </a>
   
   <!-- YouTube -->
   <a href="https://www.youtube.com/@saph1tesaph1te-h8c">
-    <img src="https://img.shields.io/badge/YouTube-Channel-000?logo=youtube" alt="Link to YouTube channel" />
+    <img src="https://img.shields.io/badge/YouTube-@saph1te-000?logo=youtube" alt="Link to YouTube channel" />
   </a>
 
   <!-- TikTok -->
   <a href="https://www.tiktok.com/@.saphite?lang=en">
-    <img src="https://img.shields.io/badge/TikTok-_.saphite-000?logo=tiktok" alt="Link to TikTok profile" />
+    <img src="https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok" alt="Link to TikTok profile" />
   </a>
   
   <!-- Facebook -->
   <a href="https://www.facebook.com/people/Saphite-Saphite/pfbid02wQ2wnWFbMWcfRrVfwgpoZWiEoAQuJDHCNZNH74obpM8N6U89FyvB5muqJUrSk44Ql/">
-    <img src="https://img.shields.io/badge/Facebook-Saphite-000?logo=facebook" alt="Link to Facebook profile" />
+    <img src="https://img.shields.io/badge/Facebook-@Saphite-000?logo=facebook" alt="Link to Facebook profile" />
   </a>
 
   <!-- X/Twitter -->
   <a href="https://x.com/saph1te">
-    <img src="https://img.shields.io/badge/X-%40saph1te-000?logo=x" alt="Link to X (Twitter) profile: @saph1te" />
+    <img src="https://img.shields.io/badge/X-@saph1te-000?logo=x" alt="Link to X (Twitter) profile: @saph1te" />
   </a>
   
   <!-- Reddit -->
@@ -257,7 +257,7 @@
 
   <!-- Hacker1 -->
   <a href="https://hackerone.com/saphite?type=user">
-    <img src="https://img.shields.io/badge/HackerOne-saphitte-000?logo=HackerOne" alt="Archive.org" />
+    <img src="https://img.shields.io/badge/HackerOne-saphite-000?logo=HackerOne" alt="Archive.org" />
   </a>
   
 </p>
