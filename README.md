@@ -1,6 +1,6 @@
       
 <!-- 
-  VERSION:1.9.0, Please note this is not the offical 1.9 as this is the dev branch and so please note that this code is activley being worked on so expect random things
+  VERSION:2.0.0, Please note this is not the offical 2.0 as this is the dev branch and so please note that this code is activley being worked on so expect random quirks
   Authored by saph1te
 
   =====================
@@ -37,9 +37,9 @@
     HSV:  315°, 61%, 100%
     HSL:  315°, 100%, 69%
 
-  ==========================
-           TO DO
-  ==========================
+  ===========================
+  TO DO (For the 2.0 Release)
+  ===========================
   - custom waka time embed (or just an existing one that supports jolly but likley not)
   - Do an RTJ4 Spotify Gif for more personality and relations alongside the album cover having a hot pink that matches the profile theme
   - updating changelog (kinda like a public updating diary) -> Current idea is to fetch a dialy updaing static image generated from a vercel deployment
@@ -75,10 +75,14 @@
   <p>
     <strong> Linux Enthusiast</strong> | <strong>Tech Geek</strong> | <strong> Music Junkie</strong> | <strong> Open Source <3</strong>
   </p>
+          
   <p style="line-height:1.5;">
       I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. I break things to understand them, then (occasionally) make them better. Neurodivergent chaos™ included.
   </p>
-  <p>Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord!</p>
+  
+  <p>
+      Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord!
+  </p>
   
 </div>
 
