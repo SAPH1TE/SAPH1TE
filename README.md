@@ -1,6 +1,6 @@
       
 <!-- 
-  VERSION:1.9.0, Please note this is not the offical 1.9 as this is the dev branch
+  VERSION:1.9.0, Please note this is not the offical 1.9 as this is the dev branch and so please note that this code is activley being worked on so expect random things
   Authored by saph1te
 
   =====================
