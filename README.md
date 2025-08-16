@@ -41,7 +41,7 @@
            TO DO
   ==========================
   - custom waka time embed (or just an existing one that supports jolly but likley not)
-  - Who RTJ4 Spotify Gif
+  - Do an RTJ4 Spotify Gif for more personality and relations alongside the album cover having a hot pink that matches the profile theme
   - updating changelog (kinda like a public updating diary) -> Current idea is to fetch a dialy updaing static image generated from a vercel deployment
   - Group up the badges into subsections for readability
   - Make the tech stack a single SVG to be loaded for less requests and optimization
@@ -230,7 +230,7 @@
   
   <!-- Reddit -->
   <a href="https://www.reddit.com/user/Tricky_Way_7122/">
-   <img src="https://img.shields.io/badge/Reddit-u/Tricky_Way_7122-000?logo=reddit" alt="Reddit profile" />
+   <img src="https://img.shields.io/badge/Reddit-@saphite-000?logo=reddit" alt="Reddit profile" />
   </a>
   
   <!-- Gitlab -->
