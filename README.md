@@ -67,9 +67,7 @@
 -->
 
 <!-- Banner -->
-<p align="center">
-  <img src="media/Banner.png" alt="Saph1te's profile banner" width="100%" /> <!-- im changing the alts for accessibility -->
-</p>
+<p align="center"><img src="media/Banner.png" alt="Saph1te's profile banner" width="100%" /></p>
 
 <!-- Intro -->
 <div align="center" style="max-width: 800px;">
@@ -77,18 +75,16 @@
   <p>
     <strong> Linux Enthusiast</strong> | <strong>Tech Geek</strong> | <strong> Music Junkie</strong> | <strong> Open Source <3</strong>
   </p>
-      
   <p style="line-height:1.5;">
       I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. I break things to understand them, then (occasionally) make them better. Neurodivergent chaos™ included.
   </p>
-  
   <p>Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord!</p>
   
 </div>
 
 ##
 
-<!-- Pls somone show me the formula 4 this or sm for this so i dont need to manually figure out the width every time i update it though i am considering just doing an SVG for this because of it, And yes ive tried tables, flexboxes, ect -->
+<!-- Pls somone show me the formula 4 this or sm for this so i dont need to manually figure out the width every time i update it though i am considering just doing an SVG for this because of it, And yes ive tried tables, flexboxes, and no 60/40% and allat that does not work ect -->
 <!-- GitHub Stats Top Section -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="Saph1te's GitHub commit streak statistics." width="57.6%" />
@@ -180,9 +176,7 @@
 
 <!-- Changelog -->
 <!-- 
-<p align="right">
-      <img src="https://TEMP.vercel.app/api/changelog" alt="My Changelog" /> I Finish the Vercel Deployment and then after that ima need to make it
-</p>
+<p align="right"><img src="https://TEMP.vercel.app/api/changelog" alt="My Changelog" /></p> <-- Ima need 2 finish the Vercel Deployment and then after that ima need to make it
 -->
 
  <!-- GitHub Trophies -->
@@ -198,76 +192,40 @@
 
 <!-- Custom Wakatime embed and spotify RTJ4 gif side by side here?-->
 
-
 <!-- Socials -->
 <p align="center">
 
   <!-- Discord -->
-  <a href="https://discord.com/users/1293353636168073330">
-    <img src="https://img.shields.io/badge/Discord-@sap1te-000?logo=discord" alt="Discord profile" />
-  </a>
-  
+  <a href="https://discord.com/users/1293353636168073330"><img src="https://img.shields.io/badge/Discord-@sap1te-000?logo=discord" alt="Discord profile" /></a>
   <!-- Spotify -->
-  <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme">
-    <img src="https://img.shields.io/badge/Spotify-@saph1te-000?logo=spotify" alt="Spotify profile" />
-  </a>
-  
+  <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme"><img src="https://img.shields.io/badge/Spotify-@saph1te-000?logo=spotify" alt="Spotify profile" /></a>
   <!-- Steam -->
-  <a href="https://steamcommunity.com/profiles/76561199074085646">
-    <img src="https://img.shields.io/badge/Steam-@saphite-000?logo=steam" alt="Steam profile" />
-  </a>
-  
+  <a href="https://steamcommunity.com/profiles/76561199074085646"><img src="https://img.shields.io/badge/Steam-@saphite-000?logo=steam" alt="Steam profile" /></a>
   <!-- YouTube -->
-  <a href="https://www.youtube.com/@saph1tesaph1te-h8c">
-    <img src="https://img.shields.io/badge/YouTube-@saph1te-000?logo=youtube" alt="YouTube channel" />
-  </a>
-
+  <a href="https://www.youtube.com/@saph1tesaph1te-h8c"><img src="https://img.shields.io/badge/YouTube-@saph1te-000?logo=youtube" alt="YouTube channel" /></a>
   <!-- TikTok -->
-  <a href="https://www.tiktok.com/@.saphite?lang=en">
-    <img src="https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok" alt="TikTok profile" />
-  </a>
-  
+  <a href="https://www.tiktok.com/@.saphite?lang=en"><img src="https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok" alt="TikTok profile" /></a>
   <!-- Facebook -->
-  <a href="https://www.facebook.com/people/Saphite-Saphite/pfbid02wQ2wnWFbMWcfRrVfwgpoZWiEoAQuJDHCNZNH74obpM8N6U89FyvB5muqJUrSk44Ql/">
-    <img src="https://img.shields.io/badge/Facebook-@Saphite-000?logo=facebook" alt="Facebook profile" />
-  </a>
-
+  <a href="https://www.facebook.com/people/Saphite-Saphite/pfbid02wQ2wnWFbMWcfRrVfwgpoZWiEoAQuJDHCNZNH74obpM8N6U89FyvB5muqJUrSk44Ql/"><img src="https://img.shields.io/badge/Facebook-@Saphite-000?logo=facebook" alt="Facebook profile" /></a>
   <!-- X/Twitter -->
-  <a href="https://x.com/saph1te">
-    <img src="https://img.shields.io/badge/X-@saph1te-000?logo=x" alt="X (Twitter) profile" />
-  </a>
-  
+  <a href="https://x.com/saph1te"><img src="https://img.shields.io/badge/X-@saph1te-000?logo=x" alt="X (Twitter) profile" /> </a>
   <!-- Reddit -->
-  <a href="https://www.reddit.com/user/Tricky_Way_7122/">
-    <img src="https://img.shields.io/badge/Reddit-u/Tricky_Way_7122-000?logo=reddit" alt="Reddit profile" />
-  </a>
-  
+  <a href="https://www.reddit.com/user/Tricky_Way_7122/"><img src="https://img.shields.io/badge/Reddit-u/Tricky_Way_7122-000?logo=reddit" alt="Reddit profile" /> </a>
   <!-- Gitlab -->
-  <a href="https://gitlab.com/SAPH1TE">
-    <img src="https://img.shields.io/badge/GitLab-@SAPH1TE-000?logo=gitlab" alt="GitLab profile" />
-  </a>
-
+  <a href="https://gitlab.com/SAPH1TE"><img src="https://img.shields.io/badge/GitLab-@SAPH1TE-000?logo=gitlab" alt="GitLab profile" /> </a>
   <!-- Email -->
-  <a href="mailto:sssaphite@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sssaphite@gmail.com-000?logo=gmail" alt="Email" />
-  </a>
-
+  <a href="mailto:sssaphite@gmail.com"><img src="https://img.shields.io/badge/Email-sssaphite@gmail.com-000?logo=gmail" alt="Email" /></a>
   <!-- Archive.org -->
-  <a href="https://archive.org/details/@saph1te">
-    <img src="https://img.shields.io/badge/Archive.org-@saph1te-000?logo=internetarchive" alt="Archive.org profile" />
-  </a>
-
+  <a href="https://archive.org/details/@saph1te"><img src="https://img.shields.io/badge/Archive.org-@saph1te-000?logo=internetarchive" alt="Archive.org profile" /></a>
   <!-- Hacker1 -->
-  <a href="https://hackerone.com/saphite?type=user">
-    <img src="https://img.shields.io/badge/HackerOne-saphite-000?logo=HackerOne" alt="Hacker1 Profile" />
-  </a>
+  <a href="https://hackerone.com/saphite?type=user"><img src="https://img.shields.io/badge/HackerOne-saphite-000?logo=HackerOne" alt="Hacker1 Profile" /></a>
   
 </p>
 
 ##
 
-<div align="center">
 <!-- Lil Thank you note -->
+<div align="center">
 <p>
   <i>This is still within heavy development. Thanks for visiting!</i>
   <i>For those wondering i stopped starring things back for no reason because it got to an exessive amount</i>
@@ -277,10 +235,7 @@
 <a>
   <img src="https://komarev.com/ghpvc/?username=saph1te&color=291B3E" alt="Atotal number of views" />
 </a>
-</div>
 
 <!-- 
 Hi! if you found this you're probably as curious as me :p
 -->
-
-    
