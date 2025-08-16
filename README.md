@@ -132,7 +132,6 @@
   ![Systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=FF64DA&color=291B3E)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FF64DA&color=291B3E)
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=FF64DA&color=291B3E)
-  ![Neofetch](https://img.shields.io/badge/Neofetch-555555?style=for-the-badge&logo=linux&logoColor=FF64DA&color=291B3E)
   ![Nmap](https://img.shields.io/badge/Nmap-004d7a?style=for-the-badge&logo=gnu-bash&logoColor=FF64DA&color=291B3E)
   ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=FF64DA&color=291B3E)
   ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=owasp&logoColor=FF64DA&color=291B3E)
@@ -171,7 +170,6 @@
 
 ##
 
-
 <div>
 
 <!-- Changelog -->
@@ -196,29 +194,63 @@
 <p align="center">
 
   <!-- Discord -->
-  <a href="https://discord.com/users/1293353636168073330"><img src="https://img.shields.io/badge/Discord-@sap1te-000?logo=discord" alt="Discord profile" /></a>
+  <a href="https://discord.com/users/1293353636168073330">
+   <img src="https://img.shields.io/badge/Discord-@sap1te-000?logo=discord" alt="Discord profile" />
+  </a>
+  
   <!-- Spotify -->
-  <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme"><img src="https://img.shields.io/badge/Spotify-@saph1te-000?logo=spotify" alt="Spotify profile" /></a>
+  <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme">
+   <img src="https://img.shields.io/badge/Spotify-@saph1te-000?logo=spotify" alt="Spotify profile" />
+  </a>
+  
   <!-- Steam -->
-  <a href="https://steamcommunity.com/profiles/76561199074085646"><img src="https://img.shields.io/badge/Steam-@saphite-000?logo=steam" alt="Steam profile" /></a>
+  <a href="https://steamcommunity.com/profiles/76561199074085646">
+   <img src="https://img.shields.io/badge/Steam-@saphite-000?logo=steam" alt="Steam profile" />
+  </a>
+  
   <!-- YouTube -->
-  <a href="https://www.youtube.com/@saph1tesaph1te-h8c"><img src="https://img.shields.io/badge/YouTube-@saph1te-000?logo=youtube" alt="YouTube channel" /></a>
+  <a href="https://www.youtube.com/@saph1tesaph1te-h8c">
+   <img src="https://img.shields.io/badge/YouTube-@saph1te-000?logo=youtube" alt="YouTube channel" />
+  </a>
+  
   <!-- TikTok -->
-  <a href="https://www.tiktok.com/@.saphite?lang=en"><img src="https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok" alt="TikTok profile" /></a>
+  <a href="https://www.tiktok.com/@.saphite?lang=en">
+   <img src="https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok" alt="TikTok profile" />
+  </a>
+  
   <!-- Facebook -->
-  <a href="https://www.facebook.com/people/Saphite-Saphite/pfbid02wQ2wnWFbMWcfRrVfwgpoZWiEoAQuJDHCNZNH74obpM8N6U89FyvB5muqJUrSk44Ql/"><img src="https://img.shields.io/badge/Facebook-@Saphite-000?logo=facebook" alt="Facebook profile" /></a>
+  <a href="https://www.facebook.com/people/Saphite-Saphite/pfbid02wQ2wnWFbMWcfRrVfwgpoZWiEoAQuJDHCNZNH74obpM8N6U89FyvB5muqJUrSk44Ql/">
+   <img src="https://img.shields.io/badge/Facebook-@Saphite-000?logo=facebook" alt="Facebook profile" />
+  </a>
+  
   <!-- X/Twitter -->
-  <a href="https://x.com/saph1te"><img src="https://img.shields.io/badge/X-@saph1te-000?logo=x" alt="X (Twitter) profile" /> </a>
+  <a href="https://x.com/saph1te">
+   <img src="https://img.shields.io/badge/X-@saph1te-000?logo=x" alt="X (Twitter) profile" />
+  </a>
+  
   <!-- Reddit -->
-  <a href="https://www.reddit.com/user/Tricky_Way_7122/"><img src="https://img.shields.io/badge/Reddit-u/Tricky_Way_7122-000?logo=reddit" alt="Reddit profile" /> </a>
+  <a href="https://www.reddit.com/user/Tricky_Way_7122/">
+   <img src="https://img.shields.io/badge/Reddit-u/Tricky_Way_7122-000?logo=reddit" alt="Reddit profile" />
+  </a>
+  
   <!-- Gitlab -->
-  <a href="https://gitlab.com/SAPH1TE"><img src="https://img.shields.io/badge/GitLab-@SAPH1TE-000?logo=gitlab" alt="GitLab profile" /> </a>
+  <a href="https://gitlab.com/SAPH1TE">
+  <img src="https://img.shields.io/badge/GitLab-@SAPH1TE-000?logo=gitlab" alt="GitLab profile" /></a>
+  
   <!-- Email -->
-  <a href="mailto:sssaphite@gmail.com"><img src="https://img.shields.io/badge/Email-sssaphite@gmail.com-000?logo=gmail" alt="Email" /></a>
+  <a href="mailto:sssaphite@gmail.com">
+   <img src="https://img.shields.io/badge/Email-sssaphite@gmail.com-000?logo=gmail" alt="Email" />
+  </a>
+  
   <!-- Archive.org -->
-  <a href="https://archive.org/details/@saph1te"><img src="https://img.shields.io/badge/Archive.org-@saph1te-000?logo=internetarchive" alt="Archive.org profile" /></a>
+  <a href="https://archive.org/details/@saph1te">
+   <img src="https://img.shields.io/badge/Archive.org-@saph1te-000?logo=internetarchive" alt="Archive.org profile" />
+  </a>
+  
   <!-- Hacker1 -->
-  <a href="https://hackerone.com/saphite?type=user"><img src="https://img.shields.io/badge/HackerOne-saphite-000?logo=HackerOne" alt="Hacker1 Profile" /></a>
+  <a href="https://hackerone.com/saphite?type=user">
+   <img src="https://img.shields.io/badge/HackerOne-saphite-000?logo=HackerOne" alt="Hacker1 Profile" />
+  </a>
   
 </p>
 
