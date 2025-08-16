@@ -1,6 +1,6 @@
       
 <!-- 
-  VERSION:1.9.0, THIS IS NOT THE LEGIT 1.9 RELEASE AS OF THIS BEING THE DEV BRANCH
+  VERSION:1.9.0, Please note this is not the offical 1.9 as this is the dev branch
   Authored by saph1te
 
   =====================
