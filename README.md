@@ -204,62 +204,62 @@
 
   <!-- Discord -->
   <a href="https://discord.com/users/1293353636168073330">
-    <img src="https://img.shields.io/badge/Discord-@sap1te-000?logo=discord" alt="Link to Discord profile: @saph1te" />
+    <img src="https://img.shields.io/badge/Discord-@sap1te-000?logo=discord" alt="Discord profile" />
   </a>
   
   <!-- Spotify -->
   <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme">
-    <img src="https://img.shields.io/badge/Spotify-@saph1te-000?logo=spotify" alt="Link to Spotify profile" />
+    <img src="https://img.shields.io/badge/Spotify-@saph1te-000?logo=spotify" alt="Spotify profile" />
   </a>
   
   <!-- Steam -->
   <a href="https://steamcommunity.com/profiles/76561199074085646">
-    <img src="https://img.shields.io/badge/Steam-@saphite-000?logo=steam" alt="Link to Steam profile" />
+    <img src="https://img.shields.io/badge/Steam-@saphite-000?logo=steam" alt="Steam profile" />
   </a>
   
   <!-- YouTube -->
   <a href="https://www.youtube.com/@saph1tesaph1te-h8c">
-    <img src="https://img.shields.io/badge/YouTube-@saph1te-000?logo=youtube" alt="Link to YouTube channel" />
+    <img src="https://img.shields.io/badge/YouTube-@saph1te-000?logo=youtube" alt="YouTube channel" />
   </a>
 
   <!-- TikTok -->
   <a href="https://www.tiktok.com/@.saphite?lang=en">
-    <img src="https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok" alt="Link to TikTok profile" />
+    <img src="https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok" alt="TikTok profile" />
   </a>
   
   <!-- Facebook -->
   <a href="https://www.facebook.com/people/Saphite-Saphite/pfbid02wQ2wnWFbMWcfRrVfwgpoZWiEoAQuJDHCNZNH74obpM8N6U89FyvB5muqJUrSk44Ql/">
-    <img src="https://img.shields.io/badge/Facebook-@Saphite-000?logo=facebook" alt="Link to Facebook profile" />
+    <img src="https://img.shields.io/badge/Facebook-@Saphite-000?logo=facebook" alt="Facebook profile" />
   </a>
 
   <!-- X/Twitter -->
   <a href="https://x.com/saph1te">
-    <img src="https://img.shields.io/badge/X-@saph1te-000?logo=x" alt="Link to X (Twitter) profile: @saph1te" />
+    <img src="https://img.shields.io/badge/X-@saph1te-000?logo=x" alt="X (Twitter) profile" />
   </a>
   
   <!-- Reddit -->
   <a href="https://www.reddit.com/user/Tricky_Way_7122/">
-    <img src="https://img.shields.io/badge/Reddit-u/Tricky_Way_7122-000?logo=reddit" alt="Link to Reddit profile" />
+    <img src="https://img.shields.io/badge/Reddit-u/Tricky_Way_7122-000?logo=reddit" alt="Reddit profile" />
   </a>
   
   <!-- Gitlab -->
   <a href="https://gitlab.com/SAPH1TE">
-    <img src="https://img.shields.io/badge/GitLab-@SAPH1TE-000?logo=gitlab" alt="Link to GitLab profile" />
+    <img src="https://img.shields.io/badge/GitLab-@SAPH1TE-000?logo=gitlab" alt="GitLab profile" />
   </a>
 
   <!-- Email -->
   <a href="mailto:sssaphite@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sssaphite@gmail.com-000?logo=gmail" alt="Contact via Email" />
+    <img src="https://img.shields.io/badge/Email-sssaphite@gmail.com-000?logo=gmail" alt="Email" />
   </a>
 
   <!-- Archive.org -->
   <a href="https://archive.org/details/@saph1te">
-    <img src="https://img.shields.io/badge/Archive.org-@saph1te-000?logo=internetarchive" alt="Link to Archive.org profile" />
+    <img src="https://img.shields.io/badge/Archive.org-@saph1te-000?logo=internetarchive" alt="Archive.org profile" />
   </a>
 
   <!-- Hacker1 -->
   <a href="https://hackerone.com/saphite?type=user">
-    <img src="https://img.shields.io/badge/HackerOne-saphite-000?logo=HackerOne" alt="Archive.org" />
+    <img src="https://img.shields.io/badge/HackerOne-saphite-000?logo=HackerOne" alt="Hacker1 Profile" />
   </a>
   
 </p>
@@ -275,7 +275,7 @@
 
 <!-- Profile views -->
 <a>
-  <img src="https://komarev.com/ghpvc/?username=saph1te&color=291B3E" alt="A counter showing the total number of views for this profile." />
+  <img src="https://komarev.com/ghpvc/?username=saph1te&color=291B3E" alt="Atotal number of views" />
 </a>
 </div>
 
