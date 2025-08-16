@@ -1,6 +1,6 @@
       
 <!-- 
-  VERSION:1.8.1, STILL EARLY RELEASE EXPECT HEAVY CHANGES
+  VERSION:1.9.0, THIS IS NOT THE LEGIT 1.9 RELEASE AS OF THIS BEING THE DEV BRANCH
   Authored by saph1te
 
   =====================
@@ -41,9 +41,9 @@
            TO DO
   ==========================
   - custom waka time embed (or just an existing one that supports jolly but likley not)
-  - Who Really cares Spotify Gif
+  - Who RTJ4 Spotify Gif
   - updating changelog (kinda like a public updating diary) -> Current idea is to fetch a dialy updaing static image generated from a vercel deployment
-  - Break up Tech stack into sections for readability
+  - Group up the badges into subsections for readability
   - Make the tech stack a single SVG to be loaded for less requests and optimization
   - Make github trophies custom jolly theme
   - Not Within this file, but get more github profile badges
@@ -88,7 +88,7 @@
 
 ##
 
-<!-- Pls somone show me the formula 4 this 🙏 or sm for this so i dont need to manually figure out the width every time i update it, And yes ive tried tables --.
+<!-- Pls somone show me the formula 4 this or sm for this so i dont need to manually figure out the width every time i update it, And yes ive tried tables, flexboxes, ect --.
 <!-- GitHub Stats Top Section -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="Saph1te's GitHub commit streak statistics." width="57.6%" />
@@ -119,8 +119,6 @@
       -  Experimenting with scripts just because
     </p>
 </div>
-
-  <!-- Custom Wakatime Embed Here?-->
 
   ## My Comfort Zone
   <!-- Here is where i would do <img src="media/comfortbadges.svg" alt="My comfort zone badges"> once im done doing the SVGs-->
@@ -179,12 +177,14 @@
 
 
 <div>
-      
+
 <!-- Changelog -->
+<!-- 
 <p align="right">
-  <img src="https://TEMP.vercel.app/api/changelog" alt="My Changelog" /> <!-- didn't do the vercel deployment yet, Nor finished setting it up -->
+      <img src="https://TEMP.vercel.app/api/changelog" alt="My Changelog" /> I Finish the Vercel Deployment and then after that ima need to make it
 </p>
-      
+-->
+
  <!-- GitHub Trophies -->
 <p>
  <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -194,7 +194,8 @@
       
 </div>
 
-<!-- Who Really Cares Spotify Embed Gif Here?-->
+
+<!-- Custom Wakatime embed and spotify RTJ4 gif side by side here?-->
 
 <!-- Socials -->
 <p align="center">
