@@ -3,9 +3,7 @@ import { readFileSync } from 'fs';
 import { join } from 'path';
 import satori from 'satori';
 import { html } from 'satori-html';
-
-// Import the JSON data directly
-import logData from './api/log.json';
+import logData from './log.json';
 
 const fontPath = join(process.cwd(), 'public', 'Inter-Regular.ttf');
 const interRegular = readFileSync(fontPath);
