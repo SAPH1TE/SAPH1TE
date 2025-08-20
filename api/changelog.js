@@ -1,12 +1,15 @@
-//I honestly HATE javascript so gemini js did it </3
+//ima be fr i honestly HATE javascript so gemini js did it </3
 import { readFileSync } from 'fs';
 import { join } from 'path';
 import satori from 'satori';
 import { html } from 'satori-html';
+
+// Import the JSON data directly
+import logData from './api/log.json';
+
 const fontPath = join(process.cwd(), 'public', 'Inter-Regular.ttf');
 const interRegular = readFileSync(fontPath);
-const logPath = join(process.cwd(), 'api', 'log.json');
-const logData = JSON.parse(readFileSync(logPath, 'utf-8'));
+
 export default async function handler(req, res) {
   try {
     const changelogEntries = logData.map(item => `
@@ -15,6 +18,7 @@ export default async function handler(req, res) {
         <p style="margin: 0; font-size: 14px; color: #ffffff;">- ${item.entry}</p>
       </div>
     `).join('');
+
     const template = html(`
       <div style="
         display: flex; 
@@ -31,6 +35,7 @@ export default async function handler(req, res) {
         ${changelogEntries}
       </div>
     `);
+
     const svg = await satori(template, {
       width: 500, 
       height: 300,
@@ -43,6 +48,7 @@ export default async function handler(req, res) {
         },
       ],
     });
+
     res.setHeader('Content-Type', 'image/svg+xml');
     res.setHeader('Cache-Control', 's-maxage=3600, stale-while-revalidate=86400');
     res.status(200).send(svg);
