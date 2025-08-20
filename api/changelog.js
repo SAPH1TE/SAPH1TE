@@ -1,67 +1,49 @@
-// /api/changelog.js
-import { promises as fs } from 'fs';
-import path, { dirname } from 'path';
-import { fileURLToPath } from 'url';
-import satori from 'satori';
 import { html } from 'satori-html';
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
-const THEME = {
-  background: '#291B3E',
-  pink: '#FF64DA',
-  white: '#ffffff',
-};
+import satori from 'satori';
+import { readFileSync } from 'fs';
+import { join } from 'path';
 
 export default async function handler(req, res) {
   try {
-    const fontPath = path.join(__dirname, 'Roboto-Regular.ttf');
-    const changelogPath = path.join(__dirname, 'log.json');
-
-    const fontData = await fs.readFile(fontPath);
-    const changelogData = JSON.parse(await fs.readFile(changelogPath, 'utf-8'));
-    let entriesHtml;
-    if (!changelogData || changelogData.length === 0) {
-      entriesHtml = `<div style="display: flex; color: ${THEME.white}; font-size: 16px;">No recent updates. Check back soon!</div>`;
-    } else {
-      entriesHtml = changelogData.map(item => `
-        <div style="display: flex; align-items: baseline; margin-bottom: 12px; width: 100%;">
-          <span style="font-size: 16px; color: ${THEME.pink}; margin-right: 12px; flex-shrink: 0;">${item.date}:</span>
-          <span style="font-size: 16px; color: ${THEME.white};">${item.entry}</span>
-        </div>
-      `).join('');
-    }
-    const markup = html(`
-      <div style="display: flex; flex-direction: column; width: 100%; height: 100%; background-color: ${THEME.background}; color: ${THEME.white}; padding: 25px; font-family: 'Roboto';">
-        <div style="font-size: 24px; color: ${THEME.pink}; font-weight: bold; margin-bottom: 20px; border-bottom: 2px solid ${THEME.pink}; padding-bottom: 10px;">
-          Changelog
-        </div>
+    const changelogPath = join(process.cwd(), 'changelog.json');
+    const changelogData = JSON.parse(readFileSync(changelogPath, 'utf-8'));
+    const bgColor = '#291B3E';
+    const dateColor = '#FF64DA';
+    const entryColor = '#FFFFFF';
+    const titleColor = '#FFFFFF';
+    const entriesHtml = changelogData.map(item => `
+      <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 15px; width: 100%;">
+        <p style="font-size: 18px; color: ${dateColor}; margin: 0; min-width: 120px;">${item.date}</p>
+        <p style="font-size: 18px; color: ${entryColor}; margin: 0; flex-grow: 1;">- ${item.entry}</p>
+      </div>
+    `).join('');
+    const markup = html`
+      <div style="
+        display: flex; 
+        flex-direction: column;
+        width: 100%; 
+        height: 100%; 
+        background-color: ${bgColor}; 
+        color: ${entryColor};
+        padding: 30px; 
+        font-family: 'sans-serif';
+        border-radius: 8px;
+      ">
+        <h2 style="font-size: 28px; margin: 0 0 20px 0; color: ${titleColor};">Changelog</h2>
         ${entriesHtml}
       </div>
-    `);
-    const headerHeight = 62;
-    const entryHeight = changelogData.length > 0 ? 28 : 20;
-    const verticalPadding = 25;
-    const calculatedHeight = headerHeight + (changelogData.length * entryHeight) + verticalPadding;
-    const height = Math.max(200, calculatedHeight);
-
+    `;
     const svg = await satori(markup, {
-      width: 450,
-      height: height,
-      fonts: [
-        {
-          name: 'Roboto',
-          data: fontData,
-          weight: 400,
-          style: 'normal',
-        },
-      ],
+      width: 600,
+      height: 400, 
+      fonts: [],
     });
     res.setHeader('Content-Type', 'image/svg+xml');
     res.setHeader('Cache-Control', 's-maxage=3600, stale-while-revalidate=86400');
     res.status(200).send(svg);
 
   } catch (error) {
-    console.error("Error generating changelog SVG:", error);
-    res.status(500).send('Error generating changelog image. Check server logs for details.');
+    console.error(error);
+    res.status(500).send('Error generating changelog image');
   }
 }
