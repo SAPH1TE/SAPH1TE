@@ -3,7 +3,9 @@ import { readFileSync } from 'fs';
 import { join } from 'path';
 import satori from 'satori';
 import { html } from 'satori-html';
-import logData from './log.json';
+
+// Corrected: Add the import attribute for JSON modules
+import logData from './log.json' with { type: 'json' };
 
 const fontPath = join(process.cwd(), 'public', 'Inter-Regular.ttf');
 const interRegular = readFileSync(fontPath);
