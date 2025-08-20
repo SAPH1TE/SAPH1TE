@@ -15,7 +15,7 @@ const THEME = {
 export default async function handler(req, res) {
   try {
     const fontPath = path.join(__dirname, 'Roboto-Regular.ttf');
-    const changelogPath = path.join(__dirname, 'changelog.json');
+    const changelogPath = path.join(__dirname, 'log.json');
 
     const fontData = await fs.readFile(fontPath);
     const changelogData = JSON.parse(await fs.readFile(changelogPath, 'utf-8'));
