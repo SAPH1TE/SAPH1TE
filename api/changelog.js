@@ -11,7 +11,7 @@ module.exports = async function handler(req, res) {
     const { html } = await import('satori-html');
     const satori = (await import('satori')).default; // Satori uses a default export
 
-    // --- The rest of your code remains the same ---
+    // --- The rest of your code remains the same --- OHHH GUYS IM SPECIAL
 
     // Load Font Data
     const fontPath = path.join(process.cwd(), 'Roboto-Regular.ttf');
