@@ -7,7 +7,7 @@ import { html } from 'satori-html';
 // Corrected: Add the import attribute for JSON modules
 import logData from './log.json' with { type: 'json' };
 
-const fontPath = join(process.cwd(), 'public', 'Inter-Regular.ttf');
+const fontPath = join(process.cwd(), 'public', 'Roboto-Regular.ttf');
 const interRegular = readFileSync(fontPath);
 
 export default async function handler(req, res) {
