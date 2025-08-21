@@ -256,9 +256,9 @@
    <img src="https://img.shields.io/badge/HackerOne-saphite-000?logo=HackerOne" alt="Hacker1 Profile" />
   </a>
 
-    <!-- Tumblr -->
+  <!-- Tumblr -->
 
-    <!-- Strawpage -->
+  <!-- Strawpage -->
   
 </p>
 
