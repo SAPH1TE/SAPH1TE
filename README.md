@@ -52,6 +52,7 @@
   - Perhaps add a guest book for people on my profile to sign?
   - Include the entirety of undertale CH1 that the user can play? (jk)
   - Reformat on how all of the markdown and html is organized
+  - Add improved accessibility for the page with things such as screen readers
   - Have Fun :D
   
   =========================
