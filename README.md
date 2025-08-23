@@ -185,7 +185,7 @@
 <!-- For the changelog the trophies will be changed into a 4x2 instead of a 8x1 and the changelog will be on the right, like the pinned repo -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues" alt="A collection of saph1te's GitHub Trophies." width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues" alt="GitHub Trophies." width="100%" />
   </a>
 </p>
 
