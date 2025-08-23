@@ -92,13 +92,13 @@
 <!-- GitHub Stats Top Section -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="Saph1te's GitHub commit streak statistics." width="57.6%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=jolly&hide_border=true" alt="A donut chart showing Saph1te's top languages." width="37%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=jolly&hide_border=true" alt="top languages." width="37%" />
 </div>
 
 <!-- GitHub Stats Bottom Section -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saph1te&theme=jolly&utcOffset=8" alt="A chart showing Saph1te's most productive time on GitHub." width="39.3%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&hide_border=true" alt="Saph1te's overall GitHub statistics card." width="55.3%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saph1te&theme=jolly&utcOffset=8" alt="Productive time graph" width="39.3%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&hide_border=true" alt="Github stats" width="55.3%" />
 </div>
 
 ##
@@ -106,7 +106,7 @@
 <div>
   <!-- Pinned Repo -->
   <a href="https://github.com/SAPH1TE/Crisp-Browser">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Pinned GitHub Repository: Crisp-Browser" align="right" width="470"/>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Pinned Repository: Crisp-Browser" align="right" width="470"/>
   </a
     
   <!-- Im Currently working on -->
@@ -178,13 +178,13 @@
 
 <!-- Changelog -->
 <!-- 
-<p align="right"><img src="https://TEMP.vercel.app/api/changelog" alt="My Changelog" /></p> <-- Ima need 2 finish the Vercel Deployment and then after that ima need to make it
+<p align="right"><img src="https://TEMP.vercel.app/api/changelog" alt="Changelog" /></p> <-- Ima need 2 finish the Vercel Deployment and then after that ima need to make it
 -->
 
  <!-- GitHub Trophies -->
 <p>
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues&row=2&column=4" alt="A collection of saph1te's GitHub Trophies." width="50%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues&row=2&column=4" alt="GitHub Trophies." width="50%" />
  </a>
 </p>
       
