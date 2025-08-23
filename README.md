@@ -51,6 +51,7 @@
   - Animate the banner?
   - Perhaps add a guest book for people on my profile to sign?
   - Include the entirety of undertale CH1 that the user can play? (jk)
+  - Reformat on how all of the markdown and html is organized
   - Have Fun :D
   
   =========================
@@ -178,7 +179,7 @@
 
 <!-- Changelog -->
 <!--
-<p align="right"><img src="TEMP/api/changelog" alt="Changelog" /></p> -- still workin on vercel
+<p align="right"><img src="TEMP/api/changelog" alt="Changelog" /></p> -- still workin on the vercel deployment
 -->
  <!-- GitHub Trophies -->
 <p>
