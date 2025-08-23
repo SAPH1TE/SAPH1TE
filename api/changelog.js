@@ -30,14 +30,14 @@ export default async function handler(req, res) {
         </div>
       `).join('');
     }
-    const markup = html(`
-      <div style="display: flex; flex-direction: column; width: 100%; height: 100%; background-color: ${THEME.background}; color: ${THEME.white}; padding: 25px; font-family: 'Roboto';">
+    const markup = html(\`
+      <div style="display: flex; flex-direction: column; width: 100%; height: 100%; background-color: ${THEME.background}; color: ${THEME.white}; padding: 25px; font-family: 'Roboto'; border-radius: 5px;">
         <div style="font-size: 24px; color: ${THEME.pink}; font-weight: bold; margin-bottom: 20px; border-bottom: 2px solid ${THEME.pink}; padding-bottom: 10px;">
           Changelog
         </div>
         ${entriesHtml}
       </div>
-    `);
+    \`);
     const headerHeight = 62;
     const entryHeight = changelogData.length > 0 ? 28 : 20;
     const verticalPadding = 25;
