@@ -177,10 +177,9 @@
 <div>
 
 <!-- Changelog -->
-<!-- 
-<p align="right"><img src="https://TEMP.vercel.app/api/changelog" alt="Changelog" /></p> <-- Ima need 2 finish the Vercel Deployment and then after that ima need to make it
+<!--
+<p align="right"><img src="TEMP/api/changelog" alt="Changelog" /></p> -- still workin on vercel
 -->
-
  <!-- GitHub Trophies -->
 <p>
  <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -253,10 +252,13 @@
   
   <!-- Hacker1 -->
   <a href="https://hackerone.com/saphite?type=user">
-   <img src="https://img.shields.io/badge/HackerOne-saphite-000?logo=HackerOne" alt="Hacker1 Profile" />
+   <img src="https://img.shields.io/badge/HackerOne-@saphite-000?logo=HackerOne" alt="Hacker1 Profile" />
   </a>
 
   <!-- Tumblr -->
+  <a href="https://www.tumblr.com/saph1te">
+   <img src="https://img.shields.io/badge/tumblr-@saph1te-000?logo=tumblr" alt="Tumblr Profile" />
+  </a>
 
   <!-- Strawpage -->
   
