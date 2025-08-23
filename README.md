@@ -40,20 +40,20 @@
   ===========================
   TO DO (For the 2.0 Release)
   ===========================
-  - custom waka time embed (or just an existing one that supports jolly but likley not)
-  - Do an RTJ4 Spotify Gif for more personality and relations alongside the album cover having a hot pink that matches the profile theme
-  - updating changelog (kinda like a public updating diary) -> Current idea is to fetch a dialy updaing static image generated from a vercel deployment
-  - Group up the badges into subsections for readability
-  - Make the tech stack a single SVG to be loaded for less requests and optimization
-  - Make github trophies custom jolly theme
-  - Not Within this file, but get more github profile badges
-  - Add a sponsor section (eg kofi, buy me a coffee ect)
-  - Animate the banner?
-  - Perhaps add a guest book for people on my profile to sign?
-  - Include the entirety of undertale CH1 that the user can play? (jk)
-  - Reformat on how all of the markdown and html is organized
-  - Add improved accessibility for the page with things such as screen readers
-  - Have Fun :D
+  - [] custom waka time embed (or just an existing one that supports jolly but likley not)
+  - [] Do an RTJ4 Spotify Gif for more personality and relations alongside the album cover having a hot pink that matches the profile theme
+  - [] updating changelog (kinda like a public updating diary) -> Current idea is to fetch a dialy updaing static image generated from a vercel deployment
+  - [] Group up the badges into subsections for readability
+  - [] Make the tech stack a single SVG to be loaded for less requests and optimization
+  - [] Make github trophies custom jolly theme
+  - [] Not Within this file, but get more github profile badges
+  - [] Add a sponsor section (eg kofi, buy me a coffee ect)
+  - [] Animate the banner?
+  - [] Perhaps add a guest book for people on my profile to sign?
+  - [] Include the entirety of undertale CH1 that the user can play? (jk)
+  - [] Reformat on how all of the markdown and html is organized
+  - [] Add improved accessibility for the page with things such as screen readers
+  - [] Have Fun :D
   
   =========================
           SOURCES
