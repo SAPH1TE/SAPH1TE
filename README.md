@@ -125,7 +125,7 @@
     <li>Godot & general game development</li>
     <li>Experimenting with scripts just because</li>
   </ul>
-</div>E
+</div>
 
   ## My Comfort Zone
   <!-- Here is where i would do <img src="media/comfortbadges.svg" alt="My comfort zone badges"> once im done doing the SVGs-->
