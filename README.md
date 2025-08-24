@@ -44,7 +44,7 @@
         or just an existing one that supports jolly but likley not
   - [] Do an RTJ4 Spotify Gif?
         for more personality and relations alongside the album cover having a pink that matches the profile theme
-  - [] updating changelog
+  - [x] updating changelog
         - Current idea is to fetch a dialy updaing public dairy static image generated from a vercel deployment
   - [] Group up the badges into subsections for readability
   - [] Make the tech stack a single SVG to be loaded for less requests and optimization
@@ -55,7 +55,6 @@
         - eg kofi, buy me a coffee ect
   - [] Animate the banner?
   - [] Perhaps add a guest book for people on my profile to sign?
-  - [] Include the entirety of undertale CH1 that the user can play? (jk)
   - [] Reformat on how all of the markdown and html is organized
   - [] Add improved accessibility for the page with things such as screen readers
   - [] Have Fun :D
