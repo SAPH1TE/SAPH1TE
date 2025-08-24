@@ -114,7 +114,7 @@
 
   <!-- Pinned Repo -->
   <a href="https://github.com/SAPH1TE/Crisp-Browser">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Pinned Repository: Crisp-Browser" align="right" width="500"/>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Pinned Repository: Crisp-Browser" align="right" width="480"/>
   </a>
 
   <!-- currently doing -->
