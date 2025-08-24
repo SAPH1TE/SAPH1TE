@@ -112,14 +112,14 @@
   </a
     
   <!-- Im Currently working on -->
-   <strong>I'm currently working on:</strong>
-    <p>
-      *  Reverse engineering & system internals<br>
-      *  Full-stack web & backend architecture<br>
-      *  Automation, and optimization tools<br>
-      *  Godot & general game development<br>
-      *  Experimenting with scripts just because
-    </p>
+  <strong>I'm currently working on:</strong>
+  <ul>
+    <li>Reverse engineering & system internals</li>
+    <li>Full-stack web & backend architecture</li>
+    <li>Automation and optimization tools</li>
+    <li>Godot & general game development</li>
+    <li>Experimenting with scripts just because</li>
+  </ul>
 </div>
 
   ## My Comfort Zone
