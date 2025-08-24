@@ -7,7 +7,7 @@
   =====================
          WELCOME!
   =====================
-  - For anyone reading the code: Shoutout 2 u! 
+  - shoutout to anyone reading and peeking at the code
   - This took a while 'cause GitHub blocks some CSS workarounds in markdown files which i have attempted heavily. 
   - But i would say it paid off...
   - Wanna collab, vibe, or talk? Discord’s open: **@saph1te** 
@@ -121,7 +121,7 @@
   <!-- Pinned Repo -->
   <a href="https://github.com/SAPH1TE/Crisp-Browser">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Pinned Repository: Crisp-Browser" align="right" width="470"/>
-  </a
+  </a>
     
   <!-- Im Currently working on -->
   <strong>I'm currently working on:</strong>
@@ -130,7 +130,7 @@
     <li>Full-stack web & backend architecture</li>
     <li>Automation and optimization tools</li>
     <li>Godot & general game development</li>
-    <li>Experimenting with scripts just because</li>SAP
+    <li>Experimenting with scripts just because</li>
   </ul>
 </div>
 
@@ -190,7 +190,7 @@
 
 <div>
 
-<!-- Changelog, and yet i have things that are more custom and hell to setup in mind i want to add.. *sigh*-->
+<!-- Changelog, and yet i have things that are more custom vercel hell to setup in mind i want to add.. *sigh*-->
 <p align="right"><img src="https://profilereadme-three.vercel.app/api/changelog" alt="Changelog" /></p>
 
  <!-- GitHub Trophies -->
@@ -208,72 +208,22 @@
 
 <!-- Socials -->
 <p align="center">
-
-  <!-- Discord -->
-  <a href="https://discord.com/users/1293353636168073330">
-   <img src="https://img.shields.io/badge/Discord-@sap1te-000?logo=discord" alt="Discord profile" />
-  </a>
-  
-  <!-- Spotify -->
-  <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme">
-   <img src="https://img.shields.io/badge/Spotify-@saph1te-000?logo=spotify" alt="Spotify profile" />
-  </a>
-  
-  <!-- Steam -->
-  <a href="https://steamcommunity.com/profiles/76561199074085646">
-   <img src="https://img.shields.io/badge/Steam-@saphite-000?logo=steam" alt="Steam profile" />
-  </a>
-  
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@saph1tesaph1te-h8c">
-   <img src="https://img.shields.io/badge/YouTube-@saph1te-000?logo=youtube" alt="YouTube channel" />
-  </a>
-  
-  <!-- TikTok -->
-  <a href="https://www.tiktok.com/@.saphite?lang=en">
-   <img src="https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok" alt="TikTok profile" />
-  </a>
-  
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/people/Saphite-Saphite/pfbid02wQ2wnWFbMWcfRrVfwgpoZWiEoAQuJDHCNZNH74obpM8N6U89FyvB5muqJUrSk44Ql/">
-   <img src="https://img.shields.io/badge/Facebook-@Saphite-000?logo=facebook" alt="Facebook profile" />
-  </a>
-  
-  <!-- X/Twitter -->
-  <a href="https://x.com/saph1te">
-   <img src="https://img.shields.io/badge/X-@saph1te-000?logo=x" alt="X (Twitter) profile" />
-  </a>
-  
-  <!-- Reddit -->
-  <a href="https://www.reddit.com/user/Tricky_Way_7122/">
-   <img src="https://img.shields.io/badge/Reddit-@saphite-000?logo=reddit" alt="Reddit profile" />
-  </a>
-  
-  <!-- Gitlab -->
-  <a href="https://gitlab.com/SAPH1TE">
-  <img src="https://img.shields.io/badge/GitLab-@SAPH1TE-000?logo=gitlab" alt="GitLab profile" /></a>
-  
-  <!-- Email -->
-  <a href="mailto:sssaphite@gmail.com">
-   <img src="https://img.shields.io/badge/Email-sssaphite@gmail.com-000?logo=gmail" alt="Email" />
-  </a>
-  
-  <!-- Archive.org -->
-  <a href="https://archive.org/details/@saph1te">
-   <img src="https://img.shields.io/badge/Archive.org-@saph1te-000?logo=internetarchive" alt="Archive.org profile" />
-  </a>
-  
-  <!-- Hacker1 -->
-  <a href="https://hackerone.com/saphite?type=user">
-   <img src="https://img.shields.io/badge/HackerOne-@saphite-000?logo=HackerOne" alt="Hacker1 Profile" />
-  </a>
-
-  <!-- Tumblr -->
-  <a href="https://www.tumblr.com/saph1te">
-   <img src="https://img.shields.io/badge/tumblr-@saph1te-000?logo=tumblr" alt="Tumblr Profile" />
-  </a>
-
+  <a href="https://discord.com/users/1293353636168073330"><img src="https://img.shields.io/badge/Discord-@sap1te-000?logo=discord" alt="Discord" /></a>
+  <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme"><img src="https://img.shields.io/badge/Spotify-@saph1te-000?logo=spotify" alt="Spotify" /></a>
+  <a href="https://steamcommunity.com/profiles/76561199074085646"><img src="https://img.shields.io/badge/Steam-@saphite-000?logo=steam" alt="Steam" /></a>
+  <a href="https://www.youtube.com/@saph1tesaph1te-h8c"><img src="https://img.shields.io/badge/YouTube-@saph1te-000?logo=youtube" alt="YouTube" /></a>
+  <a href="https://www.tiktok.com/@.saphite?lang=en"><img src="https://img.shields.io/badge/TikTok-@.saphite-000?logo=tiktok" alt="TikTok" /></a>
+  <a href="https://www.facebook.com/people/Saphite-Saphite/pfbid02wQ2wnWFbMWcfRrVfwgpoZWiEoAQuJDHCNZNH74obpM8N6U89FyvB5muqJUrSk44Ql/"><img src="https://img.shields.io/badge/Facebook-@Saphite-000?logo=facebook" alt="Facebook" /></a>
+  <a href="https://x.com/saph1te"><img src="https://img.shields.io/badge/X-@saph1te-000?logo=x" alt="X (formerly Twitter)" /></a>
+  <a href="https://www.reddit.com/user/Tricky_Way_7122/"><img src="https://img.shields.io/badge/Reddit-@saphite-000?logo=reddit" alt="Reddit" /></a>
+  <a href="https://gitlab.com/SAPH1TE"><img src="https://img.shields.io/badge/GitLab-@SAPH1TE-000?logo=gitlab" alt="GitLab" /></a>
+  <a href="mailto:sssaphite@gmail.com"><img src="https://img.shields.io/badge/Email-sssaphite@gmail.com-000?logo=gmail" alt="Email" /></a>
+  <a href="https://archive.org/details/@saph1te"><img src="https://img.shields.io/badge/Archive.org-@saph1te-000?logo=internetarchive" alt="Archive.org" /></a>
+  <a href="https://hackerone.com/saphite?type=user"><img src="https://img.shields.io/badge/HackerOne-@saphite-000?logo=HackerOne" alt="HackerOne" /></a>
+  <a href="https://www.tumblr.com/saph1te"><img src="https://img.shields.io/badge/tumblr-@saph1te-000?logo=tumblr" alt="Tumblr" /></a>
   <!-- Strawpage -->
+  <!-- Pronouns.page -->
+</p>
   
 </p>
 
