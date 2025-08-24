@@ -48,6 +48,7 @@
         - Current idea is to fetch a dialy updaing public dairy static image generated from a vercel deployment
   - [] Group up the badges into subsections for readability
   - [] Make the tech stack a single SVG to be loaded for less requests and optimization
+        - it's not a big concern as of githubs camo service caching the media though
   - [] Make github trophies custom jolly theme
   - [] Not Within this file, but get more github profile badges
   - [] Add a sponsor section 
