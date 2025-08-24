@@ -185,8 +185,8 @@
 
 <div>
 
-<!-- Changelog -->
-<p align="right"><img src="https://profilereadme-three.vercel.app//api/changelog" alt="Changelog" /></p>
+<!-- Changelog, and yet i have things that are more custom and hell to setup in mind i want to add.. *sigh*-->
+<p align="right"><img src="https://profilereadme-three.vercel.app/api/changelog" alt="Changelog" /></p>
 
  <!-- GitHub Trophies -->
 <p>
