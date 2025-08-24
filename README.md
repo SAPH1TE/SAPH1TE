@@ -40,16 +40,7 @@
   ==========================
            TO DO
   ==========================
-  - custom waka time embed (or just an existing one that supports jolly but likley not)
-  - Who Really cares Spotify Gif
-  - updating changelog (kinda like a public updating diary) -> Current idea is to fetch a dialy updaing static image generated from a vercel deployment
-  - More Tech Stack Tools
-  - Break up Tech stack into sections for readability
-  - Make github trophies custom jolly theme
-  - Not Within this file, but get more github achievments
-  - Add a sponsor section (eg kofi, buy me a coffee ect)
-  - creating a separate file or using a script to generate the badges to declutter, or perhaps store them in the repo to lower exernal requests?
-  - Have Fun :D
+  - To see what is currently being implemented please check the 'dev' branch
   
   =========================
           SOURCES
