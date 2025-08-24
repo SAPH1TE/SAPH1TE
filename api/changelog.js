@@ -1,4 +1,4 @@
-// ima be fr i honestly HATE javascript so gemini js did it </3
+// /api/changelog.js
 import { promises as fs } from 'fs';
 import path, { dirname } from 'path';
 import { fileURLToPath } from 'url';
