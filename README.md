@@ -43,8 +43,8 @@
   ===========================
   - [] custom waka time embed 
         or just an existing one that supports jolly but likley not
-  - [] Do an RTJ4 Spotify Gif?
-        for more personality and relations alongside the album cover having a pink that matches the profile theme
+  - [] Do an REACTOR ep by femtanyl Spotify embed?
+        - for more personality and relations alongside the album cover having a pink that matches the profile theme
   - [x] updating changelog
         - Current idea is to fetch a dialy updaing public dairy static image generated from a vercel deployment
   - [] Group up the badges into subsections for readability
@@ -130,7 +130,7 @@
     <li>Full-stack web & backend architecture</li>
     <li>Automation and optimization tools</li>
     <li>Godot & general game development</li>
-    <li>Experimenting with scripts just because</li>
+    <li>Experimenting with scripts just because</li>SAP
   </ul>
 </div>
 
@@ -204,7 +204,7 @@
 
 ##
 
-<!-- Custom Wakatime embed and spotify RTJ4 gif side by side here?-->
+<!-- Custom Wakatime embed and spotify reactor ep embed side by side here?-->
 
 <!-- Socials -->
 <p align="center">
