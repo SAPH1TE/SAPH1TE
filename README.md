@@ -1,8 +1,7 @@
-      
 <!-- 
-  VERSION:2.0.0
-        Please note this is not the offical 2.0 as this is the dev branch and so please note that this code is activley being worked on in early stages so expect many quick commits, major changes, quirks, ect
   Authored by saph1te
+  VERSION:2.0.0
+       - Please note this is not the offical 2.0 as this is the dev branch and so please note that this code is activley being worked on in early stages so expect many quick commits, major changes, quirks, ect
 
   =====================
          WELCOME!
@@ -82,35 +81,28 @@
 -->
 
 <!-- Banner -->
-<p align="center"><img src="media/Banner.png" alt="Saph1te's profile banner" width="100%" /></p>
+<p align="center">
+  <img src="media/Banner.png" alt="Saph1te's profile banner" width="100%" />
+</p>
 
 <!-- Intro -->
 <div align="center" style="max-width: 800px;">
-  
   <p>
     <strong> Linux Enthusiast</strong> | <strong>Tech Geek</strong> | <strong> Music Junkie</strong> | <strong> Open Source <3</strong>
-           <br>
-    I would change my profile to Clippy but didn’t for aesthetics more information <a href="https://youtube.com/watch?v=2_Dtmpe9qaQ">here</a>.
   </p>
-      
   <p style="line-height:1.5;">
       I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. I break things to understand them, then (occasionally) make them better. Neurodivergent chaos™ included.
   </p>
-  
-  <p>Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord!</p>
-  
 </div>
 
 ##
 
+<!-- GitHub Stats -->
 <!-- Pls somone show me the formula 4 this or sm for this so i dont need to manually figure out the width every time i update it though i am considering just doing an SVG for this because of it, And yes ive tried tables, flexboxes, and no 60/40% and allat that does not work ect -->
-<!-- GitHub Stats Top Section -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="Saph1te's GitHub commit streak statistics." width="57.6%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=jolly&hide_border=true" alt="top languages." width="37%" />
 </div>
-
-<!-- GitHub Stats Bottom Section -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saph1te&theme=jolly&utcOffset=8" alt="Productive time graph" width="39.3%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=saph1te&show_icons=true&theme=jolly&hide_border=true" alt="Github stats" width="55.3%" />
@@ -119,13 +111,14 @@
 ##
 
 <div>
+
   <!-- Pinned Repo -->
   <a href="https://github.com/SAPH1TE/Crisp-Browser">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Pinned Repository: Crisp-Browser" align="right" width="470"/>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Pinned Repository: Crisp-Browser" align="right" width="500"/>
   </a>
-    
-  <!-- Im Currently working on -->
-  <strong>I'm currently working on:</strong>
+
+  <!-- currently doing -->
+  <strong>What i'm currently doing:</strong>
   <ul>
     <li>Reverse engineering & system internals</li>
     <li>Full-stack web & backend architecture</li>
@@ -135,83 +128,78 @@
   </ul>
 </div>
 
-  ## My Comfort Zone
-  <!-- Here is where i would do <img src="media/comfortbadges.svg" alt="My comfort zone badges"> once im done doing the SVGs-->
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FF64DA&color=291B3E)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=FF64DA&color=291B3E)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FF64DA&color=291B3E)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FF64DA&color=291B3E)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FF64DA&color=291B3E)
-  ![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=FF64DA&color=291B3E)
-  ![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=FF64DA&color=291B3E)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=FF64DA&color=291B3E)
-  ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=FF64DA&color=291B3E)
-  ![Batch](https://img.shields.io/badge/Batch-1D1D1D?style=for-the-badge&logo=microsoft-powershell&logoColor=FF64DA&color=291B3E)
-  ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=FF64DA&color=291B3E)
-  ![Systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=FF64DA&color=291B3E)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FF64DA&color=291B3E)
-  ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=FF64DA&color=291B3E)
-  ![Nmap](https://img.shields.io/badge/Nmap-004d7a?style=for-the-badge&logo=gnu-bash&logoColor=FF64DA&color=291B3E)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=FF64DA&color=291B3E)
-  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=owasp&logoColor=FF64DA&color=291B3E)
-  ![Ghidra](https://img.shields.io/badge/Ghidra-4A4A4A?style=for-the-badge&logo=serverfault&logoColor=FF64DA&color=291B3E)
-  ![Tor](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=tor-project&logoColor=FF64DA&color=291B3E)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=FF64DA&color=291B3E)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FF64DA&color=291B3E)
-  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=FF64DA&color=291B3E)
-  ![VSCodium](https://img.shields.io/badge/VSCodium-007ACC?style=for-the-badge&logo=vscodium&logoColor=FF64DA&color=291B3E)
-  ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=FF64DA&color=291B3E)
-  ![NVChad](https://img.shields.io/badge/NVChad-5D9D50?style=for-the-badge&logo=neovim&logoColor=FF64DA&color=291B3E)
-  ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=FF64DA&color=291B3E)
-  ![Photopea](https://img.shields.io/badge/Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=FF64DA&color=291B3E)
-  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=FF64DA&color=291B3E)
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=FF64DA&color=291B3E)
-  ![qBittorrent](https://img.shields.io/badge/qBittorrent-66B34E?style=for-the-badge&logo=qbittorrent&logoColor=FF64DA&color=291B3E)
-  ![QEMU](https://img.shields.io/badge/QEMU-FF4655?style=for-the-badge&logo=qemu&logoColor=FF64DA&color=291B3E)
-  ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=FF64DA&color=291B3E)
-  ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=FF64DA&color=291B3E)
-  ![Proton](https://img.shields.io/badge/Proton_Suite-8A3FFC?style=for-the-badge&logo=protonmail&logoColor=FF64DA&color=291B3E)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FF64DA&color=291B3E)
+## My Comfort Zone
+<!-- Here is where i would do <img src="media/comfortbadges.svg" alt="My comfort zone badges"> once im done doing the SVGs-->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FF64DA&color=291B3E)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=FF64DA&color=291B3E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FF64DA&color=291B3E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FF64DA&color=291B3E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FF64DA&color=291B3E)
+![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=FF64DA&color=291B3E)
+![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=FF64DA&color=291B3E)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=FF64DA&color=291B3E)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=FF64DA&color=291B3E)
+![Batch](https://img.shields.io/badge/Batch-1D1D1D?style=for-the-badge&logo=microsoft-powershell&logoColor=FF64DA&color=291B3E)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=FF64DA&color=291B3E)
+![Systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=FF64DA&color=291B3E)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FF64DA&color=291B3E)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=FF64DA&color=291B3E)
+![Nmap](https://img.shields.io/badge/Nmap-004d7a?style=for-the-badge&logo=gnu-bash&logoColor=FF64DA&color=291B3E)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=FF64DA&color=291B3E)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=owasp&logoColor=FF64DA&color=291B3E)
+![Ghidra](https://img.shields.io/badge/Ghidra-4A4A4A?style=for-the-badge&logo=serverfault&logoColor=FF64DA&color=291B3E)
+![Tor](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=tor-project&logoColor=FF64DA&color=291B3E)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=FF64DA&color=291B3E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FF64DA&color=291B3E)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=FF64DA&color=291B3E)
+![VSCodium](https://img.shields.io/badge/VSCodium-007ACC?style=for-the-badge&logo=vscodium&logoColor=FF64DA&color=291B3E)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=FF64DA&color=291B3E)
+![NVChad](https://img.shields.io/badge/NVChad-5D9D50?style=for-the-badge&logo=neovim&logoColor=FF64DA&color=291B3E)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=FF64DA&color=291B3E)
+![Photopea](https://img.shields.io/badge/Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=FF64DA&color=291B3E)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=FF64DA&color=291B3E)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=FF64DA&color=291B3E)
+![qBittorrent](https://img.shields.io/badge/qBittorrent-66B34E?style=for-the-badge&logo=qbittorrent&logoColor=FF64DA&color=291B3E)
+![QEMU](https://img.shields.io/badge/QEMU-FF4655?style=for-the-badge&logo=qemu&logoColor=FF64DA&color=291B3E)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=FF64DA&color=291B3E)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=FF64DA&color=291B3E)
+![Proton](https://img.shields.io/badge/Proton_Suite-8A3FFC?style=for-the-badge&logo=protonmail&logoColor=FF64DA&color=291B3E)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FF64DA&color=291B3E)
 
-  ## Currently Learning  
-  <!-- Here is where i would do <img src="media/learningbadges.svg" alt="My comfort zone badges"> once im done doing the SVGs-->
-  ![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=FF64DA&color=291B3E)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FF64DA&color=291B3E)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FF64DA&color=291B3E)
-  ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=FF64DA&color=291B3E&logo=assemblyscript)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FF64DA&color=291B3E)
-  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=FF64DA&color=291B3E)
-  ![KiCad](https://img.shields.io/badge/KiCad-314182?style=for-the-badge&logo=kicad&logoColor=FF64DA&color=291B3E)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=FF64DA&color=291B3E)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF64DA&color=291B3E)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FF64DA&color=291B3E)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FF64DA&color=291B3E)
+## Currently Learning
+<!-- Here is where i would do <img src="media/learningbadges.svg" alt="My comfort zone badges"> once im done doing the SVGs-->
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=FF64DA&color=291B3E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FF64DA&color=291B3E)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FF64DA&color=291B3E)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=FF64DA&color=291B3E&logo=assemblyscript)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FF64DA&color=291B3E)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=FF64DA&color=291B3E)
+![KiCad](https://img.shields.io/badge/KiCad-314182?style=for-the-badge&logo=kicad&logoColor=FF64DA&color=291B3E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=FF64DA&color=291B3E)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF64DA&color=291B3E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FF64DA&color=291B3E)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FF64DA&color=291B3E)
 
 ##
 
 <div>
-
-<!-- Changelog, and yet i have things that are more custom vercel hell to setup in mind i want to add.. *sigh*-->
-<p align="right">
-      <img src="https://profilereadme-three.vercel.app/api/changelog" alt="Changelog" />
-Based on your TO-DO list, you're already operating in this mode. Let's look at who your "competitors" really are now:
-
-    The Platform's Limitations: Your true competitor is GitHub's Markdow</p>
-
- <!-- GitHub Trophies -->
-<p>
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="github-profile-trophy.vercel.app/?username=saph1te&theme=jolly&no-frame=true&title=-Issues&row=2&column=4" alt="GitHub Trophies." width="50%" />
- </a>
-</p>
-      
+  <!-- Changelog -->
+  <p align="right">
+     <img src="https://profilereadme-three.vercel.app/api/changelog" alt="Changelog" />
+  </p>
+  <!-- GitHub Trophies -->
+  <p>
+     <a href="https://github.com/ryo-ma/github-profile-trophy">
+       <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=jolly&no-frame=true&title=-Issues&row=2&column=4" alt="GitHub Trophies." width="50%" />
+     </a>
+  </p>
 </div>
 
 ##
 
-<!-- Custom Wakatime embed and spotify reactor ep embed side by side here?-->
+<!-- Custom WakaTime embed and Spotify embed side by side here? -->
 
-<!-- Socials -->
+<!-- Social Media -->
 <p align="center">
   <a href="https://discord.com/users/1293353636168073330"><img src="https://img.shields.io/badge/Discord-@sap1te-000?logo=discord" alt="Discord" /></a>
   <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme"><img src="https://img.shields.io/badge/Spotify-@saph1te-000?logo=spotify" alt="Spotify" /></a>
@@ -235,18 +223,18 @@ Based on your TO-DO list, you're already operating in this mode. Let's look at w
 
 ##
 
-<!-- Lil Thank you note -->
+<!-- Footer -->
 <div align="center">
-<p>
-  <i>This is still within heavy development. Thanks for visiting!</i>
-  <i>For those wondering i stopped starring things back for no reason because it got to an exessive amount</i>
-</p>
+  <p>
+    <i>This is still within heavy development. Thanks for visiting!</i>
+    <br>
+    <i>For those wondering i stopped starring things back for no reason because it got to an exessive amount.</i>
+    <br>
+    <i>I would change my profile to Clippy but didn’t for aesthetics more information <a href="https://youtube.com/watch?v=2_Dtmpe9qaQ">here</a>.</i>
+  </p>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=saph1te&color=291B3E" alt="A total number of views" />
+  </a>
+</div>
 
-<!-- Profile views -->
-<a>
-  <img src="https://komarev.com/ghpvc/?username=saph1te&color=291B3E" alt="Atotal number of views" />
-</a>
-
-<!-- 
-Hi! if you found this you're probably as curious as me :p
--->
+<!-- Hi! if you found this you're probably as curious as me :p -->
