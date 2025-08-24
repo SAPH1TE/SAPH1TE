@@ -184,9 +184,8 @@
 <div>
 
 <!-- Changelog -->
-<!--
-<p align="right"><img src="TEMP/api/changelog" alt="Changelog" /></p> -- still workin on the vercel deployment
--->
+<p align="right"><img src="https://profilereadme-three.vercel.app//api/changelog" alt="Changelog" /></p>
+
  <!-- GitHub Trophies -->
 <p>
  <a href="https://github.com/ryo-ma/github-profile-trophy">
