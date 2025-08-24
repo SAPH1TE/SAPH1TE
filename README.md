@@ -74,10 +74,12 @@
   
   <p>
     <strong> Linux Enthusiast</strong> | <strong>Tech Geek</strong> | <strong> Music Junkie</strong> | <strong> Open Source <3</strong>
+           <br>
+    I would change my profile to Clippy but didn’t for aesthetics more information <a href="https://youtube.com/watch?v=2_Dtmpe9qaQ">here</a>.
   </p>
       
   <p style="line-height:1.5;">
-      I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. I break        things to understand them, then (occasionally) make them better. Neurodivergent chaos™ included.
+      I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. I break things to understand them, then (occasionally) make them better. Neurodivergent chaos™ included.
   </p>
   
   <p>Into <em>game dev</em>, <em>coding</em>, or <em>random tech musings</em>? Hit me up on Discord!</p>
