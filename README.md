@@ -1,6 +1,7 @@
       
 <!-- 
-  VERSION:2.0.0, Please note this is not the offical 2.0 as this is the dev branch and so please note that this code is activley being worked on so expect random quirks
+  VERSION:2.0.0
+        Please note this is not the offical 2.0 as this is the dev branch and so please note that this code is activley being worked on in early stages so expect many quick commits, major changes, quirks, ect
   Authored by saph1te
 
   =====================
@@ -124,7 +125,7 @@
     <li>Godot & general game development</li>
     <li>Experimenting with scripts just because</li>
   </ul>
-</div>
+</div>E
 
   ## My Comfort Zone
   <!-- Here is where i would do <img src="media/comfortbadges.svg" alt="My comfort zone badges"> once im done doing the SVGs-->
