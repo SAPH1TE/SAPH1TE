@@ -59,6 +59,11 @@
         - perhaps use a external site that users would go to would write to a DB that the markdown file fetches
         - perhaps Use the github issues and with a GitHub Action it can then automatically update the README with their message.
   - [] Reformat on how all of the markdown and html is organized
+  - [] Make a discord server?
+  - [] Add random off topic poles/debates for user interatcion?
+        - On the Issues
+        - On an external website?
+        - Discord poles?
   - [] Add improved accessibility for the page with things such as screen readers
   - [] Have Fun :D
   
