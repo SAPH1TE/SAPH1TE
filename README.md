@@ -56,6 +56,8 @@
         - eg kofi, buy me a coffee ect
   - [] Animate the banner?
   - [] Perhaps add a guest book for people on my profile to sign?
+        - perhaps use a external site that users would go to would write to a DB that the markdown file fetches
+        - perhaps Use the github issues and with a GitHub Action it can then automatically update the README with their message.
   - [] Reformat on how all of the markdown and html is organized
   - [] Add improved accessibility for the page with things such as screen readers
   - [] Have Fun :D
