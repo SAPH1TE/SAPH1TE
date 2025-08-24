@@ -50,7 +50,8 @@
   - [] Group up the badges into subsections for readability
   - [] Make the tech stack a single SVG to be loaded for less requests and optimization
         - it's not a big concern as of githubs camo service caching the media though
-  - [] Make github trophies custom jolly theme
+  - [x] Make github trophies custom jolly theme
+        - Fork ryo-ma's trophies and just inject the theme
   - [] Not Within this file, but get more github profile badges
   - [] Add a sponsor section 
         - eg kofi, buy me a coffee ect
@@ -191,12 +192,16 @@
 <div>
 
 <!-- Changelog, and yet i have things that are more custom vercel hell to setup in mind i want to add.. *sigh*-->
-<p align="right"><img src="https://profilereadme-three.vercel.app/api/changelog" alt="Changelog" /></p>
+<p align="right">
+      <img src="https://profilereadme-three.vercel.app/api/changelog" alt="Changelog" />
+Based on your TO-DO list, you're already operating in this mode. Let's look at who your "competitors" really are now:
+
+    The Platform's Limitations: Your true competitor is GitHub's Markdow</p>
 
  <!-- GitHub Trophies -->
 <p>
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues&row=2&column=4" alt="GitHub Trophies." width="50%" />
+  <img src="github-profile-trophy.vercel.app/?username=saph1te&theme=jolly&no-frame=true&title=-Issues&row=2&column=4" alt="GitHub Trophies." width="50%" />
  </a>
 </p>
       
@@ -223,8 +228,9 @@
   <a href="https://www.tumblr.com/saph1te"><img src="https://img.shields.io/badge/tumblr-@saph1te-000?logo=tumblr" alt="Tumblr" /></a>
   <!-- Strawpage -->
   <!-- Pronouns.page -->
-</p>
-  
+  <!-- Discord serv? -->
+  <!-- atabook -->
+  <!-- pintrest? -->
 </p>
 
 ##
