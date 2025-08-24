@@ -114,11 +114,11 @@
   <!-- Im Currently working on -->
    <strong>I'm currently working on:</strong>
     <p>
-      -  Reverse engineering & system internals<br>
-      -  Full-stack web & backend architecture<br>
-      -  AI, automation, and optimization tools<br>
-      -  Godot & general game development<br>
-      -  Experimenting with scripts just because
+      *  Reverse engineering & system internals<br>
+      *  Full-stack web & backend architecture<br>
+      *  Automation, and optimization tools<br>
+      *  Godot & general game development<br>
+      *  Experimenting with scripts just because
     </p>
 </div>
 
