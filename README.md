@@ -169,7 +169,7 @@
   ![QEMU](https://img.shields.io/badge/QEMU-FF4655?style=for-the-badge&logo=qemu&logoColor=FF64DA&color=291B3E)
   ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=FF64DA&color=291B3E)
   ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=FF64DA&color=291B3E)
-  ![Proton](https://img.shields.io/badge/ProtonMail-8A3FFC?style=for-the-badge&logo=protonmail&logoColor=FF64DA&color=291B3E)
+  ![Proton](https://img.shields.io/badge/Proton_Suite-8A3FFC?style=for-the-badge&logo=protonmail&logoColor=FF64DA&color=291B3E)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FF64DA&color=291B3E)
 
   ## Currently Learning  
