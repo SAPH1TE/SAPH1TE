@@ -192,7 +192,7 @@
   <!-- GitHub Trophies -->
   <p>
      <a href="https://github.com/ryo-ma/github-profile-trophy"> <!-- decided to link to the og repo instead of my fork for credit reasons -->
-       <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=jolly&no-frame=true&title=-Issues&row=2&column=4" alt="GitHub Trophies." width="50%" />
+       <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues&row=2&column=4" alt="GitHub Trophies." width="50%" />
      </a>
   </p>
 </div>
