@@ -72,8 +72,7 @@
   <p style="line-height:1.5;">
       I dive deep into everything from <b>web dev</b> to <b>Batch/Bash</b> scripting. A <em>FOSS</em> advocate — whether it’s <b>Godot</b>, <b>Firefox</b>, or <b>Vencord</b>. I break things to understand them, then (occasionally) make them better. Neurodivergent chaos™ included.
   </p>
-  
-  <p>Feel free to int or c+h</p>
+  <p>Feel free to int or c+h! :b</p>
   
 </div>
 
