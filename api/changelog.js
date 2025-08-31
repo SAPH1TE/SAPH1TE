@@ -22,7 +22,7 @@ const FONT_SIZE = {
   title: '24px',
   entry: '16px',
 };
-const PADDING = '25px';
+const PADDING = '10px';
 
 /**
  * Generates the HTML markup for a single changelog entry.
@@ -94,7 +94,7 @@ export default async function handler(req, res) {
 
     // Generate the SVG using Satori
     const svg = await satori(markup, {
-      width: 450,
+      width: 350,
       // The height is now dynamic based on content, Satori will calculate it.
       // We can provide an estimated height, but Satori adjusts it.
       height: 200, // Provide a base height, Satori will expand if needed.
