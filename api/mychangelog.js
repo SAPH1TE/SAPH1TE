@@ -94,10 +94,10 @@ export default async function handler(req, res) {
 
     // Generate the SVG using Satori
     const svg = await satori(markup, {
-      width: 460,
+      width: 465,
       // The height is now dynamic based on content, Satori will calculate it.
       // We can provide an estimated height, but Satori adjusts it.
-      height: 232, // Provide a base height, Satori will expand if needed.
+      height: 235, // Provide a base height, Satori will expand if needed.
       fonts: [
         {
           name: THEME.fontFamily,
