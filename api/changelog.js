@@ -97,7 +97,7 @@ export default async function handler(req, res) {
       width: 400,
       // The height is now dynamic based on content, Satori will calculate it.
       // We can provide an estimated height, but Satori adjusts it.
-      height: 270, // Provide a base height, Satori will expand if needed.
+      height: 225, // Provide a base height, Satori will expand if needed.
       fonts: [
         {
           name: THEME.fontFamily,
