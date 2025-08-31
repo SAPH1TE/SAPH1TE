@@ -117,7 +117,7 @@
 
   <!-- Pinned Repo -->
   <a href="https://github.com/SAPH1TE/Crisp-Browser">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Pinned Repository: Crisp-Browser" align="right" width="470"/>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAPH1TE&repo=Crisp-Browser&theme=jolly&hide_border=true" alt="Pinned Repository: Crisp-Browser" align="right" width="472"/>
   </a>
 
   <!-- currently doing -->
@@ -184,18 +184,10 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FF64DA&color=291B3E)
 
 ##
-
+<!-- i was fighting with this bs to align perfectly and i just made it top & bottom down.... -->
 <div>
-  <!-- Changelog -->
-  <a> <!-- unsure what to make the href -->
-     <img src="https://profilereadme-three.vercel.app/api/changelog" alt="Changelog" align="right" />
-  </a>
-  <!-- GitHub Trophies -->
-  <p align="left">
-     <a href="https://github.com/ryo-ma/github-profile-trophy"> <!-- decided to link to the og repo instead of my fork for credit reasons -->
-       <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues&row=2&column=4" alt="GitHub Trophies." width="50%" />
-     </a>
-  </p>
+  <img src="https://profilereadme-three.vercel.app/api/mylog" alt="Changelog" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues&row=2&column=4" alt="GitHub Trophies." width="49%"/>
 </div>
 
 ##
