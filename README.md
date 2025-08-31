@@ -184,10 +184,10 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FF64DA&color=291B3E)
 
 ##
-<!-- i was fighting with this bs to align perfectly and i just made it top & bottom down.... -->
+
 <div>
-  <img src="https://profilereadme-three.vercel.app/api/mylog" alt="Changelog" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues&row=2&column=4" alt="GitHub Trophies." width="49%"/>
+  <img src="https://profilereadme-three.vercel.app/api/javascript" alt="Changelog" width="49%" /> <!-- changelog -->
+  <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues&row=2&column=4" alt="GitHub Trophies." width="49%"/> <!-- trophies -->
 </div>
 
 ##
