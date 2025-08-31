@@ -65,6 +65,7 @@
         - On an external website?
         - Discord poles?
   - [] Add improved accessibility for the page with things such as screen readers
+  - [] Put main socials in a spot and then all of my socials in the footer to prevent choice paralysis or just break them up throughout the readme everywhere
   - [] Have Fun :D
   
   =========================
