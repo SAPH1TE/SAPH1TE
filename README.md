@@ -187,11 +187,11 @@
 
 <div>
   <!-- Changelog -->
-  <p align="right">
-     <img src="https://profilereadme-three.vercel.app/api/changelog" alt="Changelog" />
-  </p>
+  <a> <!-- unsure what to make the href -->
+     <img src="https://profilereadme-three.vercel.app/api/changelog" alt="Changelog" align="right" />
+  </a>
   <!-- GitHub Trophies -->
-  <p>
+  <p align="left">
      <a href="https://github.com/ryo-ma/github-profile-trophy"> <!-- decided to link to the og repo instead of my fork for credit reasons -->
        <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues&row=2&column=4" alt="GitHub Trophies." width="50%" />
      </a>
