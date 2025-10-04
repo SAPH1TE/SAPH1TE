@@ -49,7 +49,7 @@
   - [] Group up the badges into subsections for readability
   - [] Make the tech stack a single SVG to be loaded for less requests and optimization
         - it's not a big concern as of githubs camo service caching the media though
-  - [x] Make github trophies custom jolly theme
+  - [] Make github trophies custom jolly theme
         - Fork ryo-ma's trophies and just inject the theme
   - [] Not Within this file, but get more github profile badges
   - [] Add a sponsor section 
