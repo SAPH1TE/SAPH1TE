@@ -1,18 +1,18 @@
 <!-- 
   Authored by saph1te
   VERSION:2.0.0
-       - Please note this is not the offical 2.0 as this is the dev branch and so please note that this code is activley being worked on in early stages so expect many quick commits, major changes, quirks, ect
+       - Please note this is not the official 2.0 as this is the dev branch and so please note that this code is actively being worked on in early stages so expect many quick commits, major changes, quirks, ect
 
   =====================
          WELCOME!
   =====================
-  - shoutout to anyone reading and peeking at the code
+  - shout-out to anyone reading and peeking at the code
   - This took a while 'cause GitHub blocks some CSS workarounds in markdown files which i have attempted heavily. 
   - But i would say it paid off...
   - Wanna collab, vibe, or talk? Discord’s open: **@saph1te** 
 
   ======================
-      COLOR PALLETE 
+      COLOR PALLET 
   ======================
   Common Theme: "Jolly"
 
@@ -41,11 +41,11 @@
   TO DO (For the 2.0 Release)
   ===========================
   - [] custom waka time embed 
-        or just an existing one that supports jolly but likley not
+        or just an existing one that supports jolly but likely not
   - [] Do an REACTOR ep by femtanyl Spotify embed?
         - for more personality and relations alongside the album cover having a pink that matches the profile theme
-  - [x] updating changelog
-        - Current idea is to fetch a dialy updaing public dairy static image generated from a vercel deployment
+  - [x] updating change log
+        - Current idea is to fetch a daily updating public dairy static image generated from a vercel deployment
   - [] Group up the badges into subsections for readability
   - [] Make the tech stack a single SVG to be loaded for less requests and optimization
         - it's not a big concern as of githubs camo service caching the media though
@@ -60,7 +60,7 @@
         - perhaps Use the github issues and with a GitHub Action it can then automatically update the README with their message.
   - [] Reformat on how all of the markdown and html is organized
   - [] Make a discord server?
-  - [] Add random off topic poles/debates for user interatcion?
+  - [] Add random off topic poles/debates for user interaction?
         - On the Issues
         - On an external website?
         - Discord poles?
@@ -124,7 +124,7 @@
   <strong>What i'm currently doing:</strong>
   <ul>
     <li>Reverse engineering & system internals</li>
-    <li>Full-stack web & backend architecture</li>
+    <li>Full-stack web & back end architecture</li>
     <li>Automation and optimization tools</li>
     <li>Godot & general game development</li>
     <li>Experimenting with scripts just because</li>
@@ -170,7 +170,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FF64DA&color=291B3E)
 
 ## Currently Learning
-<!-- Here is where i would do <img src="media/learningbadges.svg" alt="My comfort zone badges"> once im done doing the SVGs-->
+<!-- Here is where i would do <img src="media/learningbadges.svg" alt="My comfort zone badges"> once I'm done doing the SVGs-->
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=FF64DA&color=291B3E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FF64DA&color=291B3E)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FF64DA&color=291B3E)
@@ -186,7 +186,7 @@
 ##
 
 <div>
-  <img src="https://profilereadme-three.vercel.app/api/javascript" alt="Changelog" width="49%" /> <!-- changelog -->
+  <img src="https://profilereadme-three.vercel.app/api/javascript" alt="Changelog" width="49%" /> <!-- personal life changelog -->
   <img src="https://github-profile-trophy.vercel.app/?username=saph1te&theme=radical&no-frame=true&title=-Issues&row=2&column=4" alt="GitHub Trophies." width="49%"/> <!-- trophies -->
 </div>
 
@@ -223,7 +223,7 @@
   <p>
     <i>This is still within heavy development. Thanks for visiting!</i>
     <br>
-    <i>For those wondering i stopped starring things back for no reason because it got to an exessive amount.</i>
+    <i>For those wondering i stopped starring things back for no reason because it got to an excessive amount.</i>
     <br>
     <i>I would change my profile to Clippy but didn’t for aesthetics more information <a href="https://youtube.com/watch?v=2_Dtmpe9qaQ">here</a>.</i>
   </p>
