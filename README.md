@@ -1,18 +1,18 @@
 <!-- 
   Authored by saph1te
   VERSION:2.0.0
-       - Please note this is not the official 2.0 as this is the dev branch and so please note that this code is actively being worked on in early stages so expect many quick commits, major changes, quirks, ect
+       - Please note this is not the official 2.0 as this is the dev branch and so please note that this code is actively being worked on in early stages so expect many quick commits, major changes, quirks, etc.
 
   =====================
          WELCOME!
   =====================
   - shout-out to anyone reading and peeking at the code
-  - This took a while 'cause GitHub blocks some CSS workarounds in markdown files which i have attempted heavily. 
-  - But i would say it paid off...
+  - This took a while 'cause GitHub blocks some CSS workarounds in markdown files which I have attempted heavily. 
+  - But I would say it paid off...
   - Wanna collab, vibe, or talk? Discord’s open: **@saph1te** 
 
   ======================
-      COLOR PALLET 
+     DARK COLOR PALETTE 
   ======================
   Common Theme: "Jolly"
 
@@ -36,41 +36,51 @@
     CMYK: 0%, 61%, 15%, 0%
     HSV:  315°, 61%, 100%
     HSL:  315°, 100%, 69%
+    
+  ======================
+     LIGHT COLOR PALETTE 
+  ======================
+  *not yet implemented*
 
   ===========================
   TO DO (For the 2.0 Release)
   ===========================
   - [] custom waka time embed 
         or just an existing one that supports jolly but likely not
-  - [] Do an REACTOR ep by femtanyl Spotify embed?
+  - [] Do an REACTOR ep by femtanyl Spotify embed (or any album that has a similar color palette)?
         - for more personality and relations alongside the album cover having a pink that matches the profile theme
   - [x] updating change log
-        - Current idea is to fetch a daily updating public dairy static image generated from a vercel deployment
+        - Current idea is to fetch a daily updating public diary static image generated from a vercel deployment
   - [] Group up the badges into subsections for readability
-  - [] Make the tech stack a single SVG to be loaded for less requests and optimization
-        - it's not a big concern as of githubs camo service caching the media though
+  - [] Make the tech stack a single SVG to be loaded for fewer requests and optimization
+        - Making a SVG for each badge section and a different edition for light mode?
   - [] Make github trophies custom jolly theme
         - Fork ryo-ma's trophies and just inject the theme
   - [] Not Within this file, but get more github profile badges
   - [] Add a sponsor section 
-        - eg kofi, buy me a coffee ect
+        - eg kofi, buy me a coffee etc.
   - [] Animate the banner?
+  - [] Make all the embeds off a personal deployment for manageability and predictability?
   - [] Perhaps add a guest book for people on my profile to sign?
         - perhaps use a external site that users would go to would write to a DB that the markdown file fetches
         - perhaps Use the github issues and with a GitHub Action it can then automatically update the README with their message.
-  - [] Reformat on how all of the markdown and html is organized
+          - Configure the Action to amend the previous commit if it was also a guestbook update, or batch updates (run the action once a day to process all new issues at once) rather than triggering on every single issue creation so there isnt a THICC wall of commits on main?
+  - [] Reformat on how all of the markdown and HTML is organized
   - [] Make a discord server?
-  - [] Add random off topic poles/debates for user interaction?
+  - [] Make a lightmode friendly edition *will require a lot of rewriting and changes on the embed deployments due to a lot of hardcoded and existing content*
+  - [] Add random off topic polls/debates for user interaction?
         - On the Issues
         - On an external website?
-        - Discord poles?
-  - [] Add improved accessibility for the page with things such as screen readers
+        - Discord polls?
+  - [] Add improved accessibility for the page with things such as screen readers or color blindness etc. etc. 
   - [] Put main socials in a spot and then all of my socials in the footer to prevent choice paralysis or just break them up throughout the readme everywhere
+  - [] fix all typos/general polish
+  - [] Make a pixel art font for the embeds? (i want it so bad but i will not align with the typical html text and the text will also need to be embedded or a svg..... *sigh* )
   - [] Have Fun :D
   
-  =========================
-          SOURCES
-  =========================
+  ========================
+   SOURCES/USED MATERIALS
+  ========================
   - Banner Art: Modified by me. Original from https://www.furaffinity.net/view/50001051/
   - Icons & Badges: Shields.io (https://shields.io/), Simple Icons (https://simpleicons.org/)
   - GitHub Readme Stats (https://github.com/anuraghazra/github-readme-stats)
@@ -100,7 +110,7 @@
 ##
 
 <!-- GitHub Stats -->
-<!-- Pls somone show me the formula 4 this or sm for this so i dont need to manually figure out the width every time i update it though i am considering just doing an SVG for this because of it, And yes ive tried tables, flexboxes, and no 60/40% and allat that does not work ect -->
+<!-- Please someone show me the formula 4 this or sm for this so I dont need to manually figure out the width every time I update it though I am considering just doing an SVG for this because of it, And yes I've tried tables, flexboxes, and no 60/40% and allat that does not work along with many other things, surprised how stable this is for being such a weird way of doing it though -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saph1te&theme=jolly&hide_border=true" alt="Saph1te's GitHub commit streak statistics." width="57.6%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saph1te&layout=donut&theme=jolly&hide_border=true" alt="top languages." width="37%" />
@@ -121,7 +131,7 @@
   </a>
 
   <!-- currently doing -->
-  <strong>What i'm currently doing:</strong>
+  <strong>What I'm currently doing:</strong>
   <ul>
     <li>Reverse engineering & system internals</li>
     <li>Full-stack web & back end architecture</li>
@@ -132,7 +142,7 @@
 </div>
 
 ## My Comfort Zone
-<!-- Here is where i would do <img src="media/comfortbadges.svg" alt="My comfort zone badges"> once im done doing the SVGs-->
+<!-- Here is where I would do <img src="media/comfortbadges.svg" alt="My comfort zone badges"> once im done doing the SVGs-->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FF64DA&color=291B3E)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=FF64DA&color=291B3E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FF64DA&color=291B3E)
@@ -170,7 +180,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FF64DA&color=291B3E)
 
 ## Currently Learning
-<!-- Here is where i would do <img src="media/learningbadges.svg" alt="My comfort zone badges"> once I'm done doing the SVGs-->
+<!-- Here is where I would do <img src="media/learningbadges.svg" alt="My comfort zone badges"> once I'm done doing the SVGs-->
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=FF64DA&color=291B3E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FF64DA&color=291B3E)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FF64DA&color=291B3E)
@@ -205,7 +215,7 @@
   <a href="https://x.com/saph1te"><img src="https://img.shields.io/badge/X-@saph1te-000?logo=x" alt="X (formerly Twitter)" /></a>
   <a href="https://www.reddit.com/user/Tricky_Way_7122/"><img src="https://img.shields.io/badge/Reddit-@saphite-000?logo=reddit" alt="Reddit" /></a>
   <a href="https://gitlab.com/SAPH1TE"><img src="https://img.shields.io/badge/GitLab-@SAPH1TE-000?logo=gitlab" alt="GitLab" /></a>
-  <a href="mailto:sssaphite@gmail.com"><img src="https://img.shields.io/badge/Email-sssaphite@gmail.com-000?logo=gmail" alt="Email" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Email-sssaphite@gmail.com-000?logo=gmail" alt="Email" /></a> <!-- removed the href bc scrapers people who really want it will have to type it :/ -->
   <a href="https://archive.org/details/@saph1te"><img src="https://img.shields.io/badge/Archive.org-@saph1te-000?logo=internetarchive" alt="Archive.org" /></a>
   <a href="https://hackerone.com/saphite?type=user"><img src="https://img.shields.io/badge/HackerOne-@saphite-000?logo=HackerOne" alt="HackerOne" /></a>
   <a href="https://www.tumblr.com/saph1te"><img src="https://img.shields.io/badge/tumblr-@saph1te-000?logo=tumblr" alt="Tumblr" /></a>
@@ -213,7 +223,7 @@
   <!-- Pronouns.page -->
   <!-- Discord serv? -->
   <!-- atabook -->
-  <!-- pintrest? -->
+  <!-- Pinterest? -->
 </p>
 
 ##
@@ -223,7 +233,7 @@
   <p>
     <i>This is still within heavy development. Thanks for visiting!</i>
     <br>
-    <i>For those wondering i stopped starring things back for no reason because it got to an excessive amount.</i>
+    <i>For those wondering I stopped starring things back for no reason because it got to an excessive amount.</i>
     <br>
     <i>I would change my profile to Clippy but didn’t for aesthetics more information <a href="https://youtube.com/watch?v=2_Dtmpe9qaQ">here</a>.</i>
   </p>
