@@ -196,7 +196,7 @@
 
 <!-- Social Media -->
 <p align="center">
-  <a href="https://discord.com/users/1293353636168073330"><img src="https://img.shields.io/badge/Discord-@sap1te-000?logo=discord" alt="Discord" /></a>
+  <a href="https://discord.com/users/1293353636168073330"><img src="https://img.shields.io/badge/Discord-@saph1te-000?logo=discord" alt="Discord" /></a>
   <a href="https://open.spotify.com/user/312vyv67gd4uylfy6dfltmkw3sme"><img src="https://img.shields.io/badge/Spotify-@saph1te-000?logo=spotify" alt="Spotify" /></a>
   <a href="https://steamcommunity.com/profiles/76561199074085646"><img src="https://img.shields.io/badge/Steam-@saphite-000?logo=steam" alt="Steam" /></a>
   <a href="https://www.youtube.com/@saph1tesaph1te-h8c"><img src="https://img.shields.io/badge/YouTube-@saph1te-000?logo=youtube" alt="YouTube" /></a>
