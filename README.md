@@ -103,9 +103,9 @@
   <!-- Im Currently working on -->
    <strong>I'm currently working on:</strong>
     <p>
-      -  Reverse engineering & system internals<br>
+      -  Audio Engineering & music production<br>
       -  Full-stack web & backend architecture<br>
-      -  AI, automation, and optimization tools<br>
+      -  automation, and optimization tools<br>
       -  Godot & general game development<br>
       -  Experimenting with scripts just because
     </p>
