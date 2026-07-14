@@ -248,6 +248,9 @@
     <img src="https://img.shields.io/badge/HackerOne-saphitte-000?logo=HackerOne" alt="Archive.org" />
   </a>
   
+  I'm not as active on social media anymore.. ive happened to find my home on the 
+  internet with webrings! you might find me surfing around there
+  
 </p>
 
 ##
